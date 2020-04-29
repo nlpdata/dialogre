@@ -1,0 +1,2314 @@
+Adelaide Willick||Female||gender
+Adelaide Willick||Carol Willick||daughter
+Adelaide Willick||Ben Geller||grandson
+Adelaide Willick||George Willick||husband
+Adelaide Willick||Susan Bunch||daughter-in-law
+Adelaide Willick||Ross Geller||ex-son-in-law
+Adelaide Willick||Minnie||mother_or_mother-in-law
+Monica Geller||Monica E. Geller||name
+Monica Geller||Mon||nicknames
+Monica Geller||Harmonica||nicknames
+Monica Geller||Crazy Plate Lady||nicknames
+Monica Geller||Monican||nicknames
+Monica Geller||Sweetums||nicknames
+Monica Geller||Monicow||nicknames
+Monica Geller||Bingette||nicknames
+Monica Geller||Honey, Sweetie, Sweetheart||nicknames
+Monica Geller||Candy Lady||nicknames
+Monica Geller||Big Fat Goalie||nicknames
+Monica Geller||Marsha||nicknames
+Monica Geller||Monana||nicknames
+Monica Geller||April 22nd, 1969||date_of_birth
+Monica Geller||Chef||title
+Monica Geller||Iridium||employer
+Monica Geller||Waitress||title
+Monica Geller||Moondance Diner||employer
+Monica Geller||Head chef||title
+Monica Geller||Allesandro's||employer
+Monica Geller||Head Chef||title
+Monica Geller||Javu||employer
+Monica Geller||Jack Geller||father
+Monica Geller||Judy Geller||mother
+Monica Geller||Ross Geller||older_brother
+Monica Geller||Althea||grandmother
+Monica Geller||† Ben Geller||nephew
+Monica Geller||Emma Geller-Green||niece/goddaughter
+Monica Geller||Cassie Geller||cousin
+Monica Geller||Cousin Frannie||cousin
+Monica Geller||Jack Bing||son
+Monica Geller||Erica Bing||daughter
+Monica Geller||Chandler Bing||husband
+Monica Geller||Charles Bing||father-in-law
+Monica Geller||Nora Tyler Bing||mother-in-law
+Monica Geller||Rachel Green||sister-in-law
+Monica Geller||Emily Waltham||ex-sister-in-law
+Monica Geller||Carol Willick||ex-sister-in-law
+Monica Geller||Stuart||cousin-in-law
+Monica Geller||Pete Becker||ex-boyfriend
+Monica Geller||Richard Burke||ex-boyfriend
+Monica Geller||Stuart||ex-boyfriend
+Monica Geller||Julio||ex-boyfriend
+Monica Geller||Fun Bobby||ex-boyfriend
+Morgan Fairchild||Female||gender
+Morgan Fairchild||February 3, 1950||date_of_birth
+Mr. Bunch||Male||gender
+Mr. Bunch||Mrs. Bunch||wife
+Mr. Bunch||Susan Bunch||daughter
+Mr. Bunch||Carol Willick||daughter-in-law
+Mr. Bunch||Ben Geller||step-grandson
+Aunt Sylvia||Sylvia Geller||name
+Aunt Sylvia||Female||gender
+Aunt Sylvia||Freddie||husband
+Aunt Sylvia||Jack Geller||brother
+Aunt Sylvia||Aunt Iris||sister
+Aunt Sylvia||Judy Geller||sister-in-law
+Aunt Sylvia||Ross Geller||nephew
+Aunt Sylvia||Monica Geller||niece
+Aunt Sylvia||Emma Geller-Green||grandniece
+Aunt Sylvia||Ben Geller-Willick-Bunch||grandnephew
+Aunt Sylvia||Erica Geller-Bing||grandniece
+Aunt Sylvia||Jack Geller-Bing||grandnephew
+Mr. Burgin||Male||gender
+Mr. Burgin||Mrs. Burgin||wife
+Mr. Burgin||Joshua Burgin||son
+Mr. Douglas||Male||gender
+Mr. Heckles||Heckles (Surname)||name
+Mr. Heckles||Male||gender
+Mr. Heckles||Retired||title
+Dean Lipson||Male||gender
+Dean Lipson||Zoo Administrator||title
+Dean Lipson||Zoo Administrator||employer
+Mr. Rastatter||Male||gender
+Mr. Rastatter||Mockolate employee||title
+Mr. Rastatter||Mockolate employee||employer
+Mr. Treeger||Male||gender
+Mr. Treeger||Building Superintendent||title
+Mr. Waltham||Male||gender
+Mr. Waltham||Executive||title
+Mr. Waltham||Bloomingdale's||employer
+Mr. Waltham||Stephen Waltham||brother
+Mr. Waltham||Emily's cousin||son
+Mr. Waltham||Emily Waltham||niece
+Mr. Waltham||Mrs. Waltham||first_or_ex-sister-in-law
+Mr. Waltham||Andrea Waltham||sister-in-law
+Mr. Waltham||Ross Geller||ex-nephew-in-law
+Mr. Wheeler||Male||gender
+Mr. Wheeler||Mrs. Wheeler||wife
+Mr. Wheeler||Charlie Wheeler||daughter
+Aurora||Female||gender
+Aurora||Former Israeli Soldier||title
+Aurora||Rick||husband
+Aurora||Ethan||boyfriend
+Aurora||Chandler Bing||ex-boyfriend
+Aurora||Andrew||boyfriend
+Mr. Zelner||Male||gender
+Mr. Zelner||Executive||title
+Mr. Zelner||Ralph Lauren||employer
+Mr. Zelner||Ross Zelner||son
+Mrs. Buffay (Frank Sr.'s second wife)||Mrs. Buffay||name
+Mrs. Buffay (Frank Sr.'s second wife)||Female||gender
+Mrs. Buffay (Frank Sr.'s second wife)||Frank Buffay Sr.||husband
+Mrs. Buffay (Frank Sr.'s second wife)||Frank Buffay Jr.||son
+Mrs. Buffay (Frank Sr.'s second wife)||Ursula Buffay||stepdaughter
+Mrs. Buffay (Frank Sr.'s second wife)||Phoebe Buffay||stepdaughter
+Mrs. Buffay (Frank Sr.'s second wife)||Leslie Buffay||granddaughter
+Mrs. Buffay (Frank Sr.'s second wife)||Frank Buffay, Jr. Jr.||grandson
+Mrs. Buffay (Frank Sr.'s second wife)||Chandler Buffay||granddaughter
+Mrs. Buffay (Frank Sr.'s second wife)||Alice Knight Buffay||daughter-in-law
+Mrs. Buffay (Frank Sr.'s second wife)||Mike Hannigan||stepson-in-law
+Mrs. Buffay (Frank Sr.'s second wife)||Schnoodle||pet
+Mrs. Bunch||Female||gender
+Mrs. Bunch||Mr. Bunch||husband
+Mrs. Bunch||Susan Bunch||daughter
+Mrs. Bunch||Carol Willick||daughter-in-law
+Mrs. Bunch||Ben Geller||step-grandson
+Mrs. Burgin||Female||gender
+Mrs. Burgin||Mr. Burgin||husband
+Mrs. Burgin||Joshua Burgin||son
+Mrs. Burnett||Female||gender
+Mrs. Burnett||Clifford Burnett||husband/widower
+Mrs. K.||Female||gender
+Mrs. K.||Nanny||title
+Mrs. Robinson||Female||gender
+Mrs. Robinson||Mark Robinson||husband
+Mrs. Stevens||Female||gender
+Mrs. Stevens||Paul Stevens||husband/widower
+Mrs. Stevens||Elizabeth Stevens||daughter
+Mrs. Stevens||Mr. Stevens Sr.||father-in-law
+Mrs. Stevens||† Mrs. Stevens Sr.||mother-in-law
+Mrs. Stevens||† Ms. Stevens||sister-in-law
+Mrs. Stevens||Paul Stevens||husband
+Rose Adelman||Female||gender
+Rose Adelman||1914||date_of_birth
+Ms. McKenna||Elaine McKenna||name
+Ms. McKenna||Female||gender
+Ms. McKenna||Executive||title
+Ms. Stevens||Female||gender
+Ms. Stevens||Mr. Stevens Sr.||father
+Ms. Stevens||† Mrs. Stevens Sr.||mother
+Ms. Stevens||† Paul Stevens||brother
+Ms. Stevens||Mrs. Stevens||sister-in-law
+Ms. Stevens||† Elizabeth Stevens||niece
+Muriel||Female||gender
+Muriel||Rachel Green||grandniece
+Muriel||Jill Green||grandniece
+Muriel||Amy Green||great-niece
+Muriel||Emma Geller-Green||great-grandniece
+Muriel||Ross Geller||great-nephew-in-law
+Muriel||Ben Geller||step-great-grandnephew
+Althea||Female||gender
+Althea||1915||date_of_birth
+Althea||unnamed husband   Judy Geller||daughter
+Althea||Lillian||daughter
+Althea||Phylis||daughter
+Althea||Jack Geller||son-in-law
+Althea||Ross Geller||grandson
+Althea||Monica Geller||granddaughter
+Althea||Ben Geller||great-grandson
+Althea||Emma Geller-Green||great-granddaughter
+Althea||Jack Bing||great-grandson
+Althea||Erica Bing||great-granddaughter
+Barbara Burke||female||gender
+Barbara Burke||Richard Burke||ex-husband
+Barbara Burke||Timothy Burke||son
+Barbara Burke||Michelle Burke||daughter
+Barbara Burke||Henry||grandson
+Nancy||Smokey Smokison||nicknames
+Nancy||Female||gender
+Nancy||Executive||title
+Nancy||Ralph Lauren||employer
+Nancy||Bloomingdale's employee||title
+Nancy||Mark Robinson||fling
+Nancy||Realtor||title
+Jarvis Oberblau||Female||gender
+Barbara De Bortoli||Female||gender
+Barbara De Bortoli||January 30, 1971||date_of_birth
+Ned Morse||Male||gender
+Ned Morse||Student||title
+Nervous male passenger||Male||gender
+Nick||Male||gender
+Nick||Actor||title
+Nick||Kathy||girlfriend
+Barry Farber||Male||gender
+Barry Farber||Orthodontist||title
+Barry Farber||Mindy Hunter-Farber||ex-wife
+Barry Farber||Rachel Green||_wife_in_the_one_that_could_have_been_part_1_and_2
+Barry Farber||Rachel Green||ex-fiancée
+Nina Bookbinder||Female||gender
+Nina Bookbinder||Corporate employee (fired)||title
+Nina Bookbinder||Corporate employee||employer
+Nina Bookbinder||Chandler Bing||ex-boyfriend
+Nonna Tribbiani||Nonna||name
+Nonna Tribbiani||Female||gender
+Nonna Tribbiani||Joey Tribbiani Sr.||son
+Nonna Tribbiani||Gloria Tribbiani||daughter-in-law
+Nonna Tribbiani||Joey Tribbiani Jr.||grandson
+Nonna Tribbiani||Gina Tribbiani||granddaughter
+Nonna Tribbiani||Dina Tribbiani||granddaughter
+Nonna Tribbiani||Mary-Angela Tribbiani||granddaughter
+Nonna Tribbiani||Mary-Therese Tribbiani||granddaughter
+Nonna Tribbiani||Veronica Tribbiani||granddaughter
+Nonna Tribbiani||Cookie Tribbiani||granddaughter
+Nonna Tribbiani||Tina Tribbiani||granddaughter
+Nonnie||Female||gender
+Nonnie||Gloria Tribbiani||daughter
+Nonnie||Joey Tribbiani||grandson
+Nonnie||Joey Tribbiani Sr.||son-in-law
+Nonnie||Tribbiani Sisters||granddaughters
+Nonnie||Jimmy Costa||grandson-in-law
+Nonnie||Michael Tribbiani||great-grandson
+Nora Tyler Bing||Female||gender
+Nora Tyler Bing||Erotic novelist||title
+Nora Tyler Bing||Chandler Bing||son
+Nora Tyler Bing||Jack Geller-Bing||grandson
+Nora Tyler Bing||Erica Geller-Bing||granddaughter
+Nora Tyler Bing||Three other ex-husbands  Charles Bing||ex-husband
+Nora Tyler Bing||Monica Geller||daughter-in-law
+Dora Sizemore||Female||gender
+Dora Sizemore||Nurse||title
+Owen||Male||gender
+Owen||1994-1995||date_of_birth
+Owen||Bill||father
+Owen||Colleen||mother
+Paget Brewster||Female||gender
+Paget Brewster||March 10, 1969||date_of_birth
+Pamela Fryman||Female||gender
+Pang-Ni Landrum||Female||gender
+Paolo||Crap Weasel||nicknames
+Paolo||Male||gender
+Paolo||Rachel Green||ex-girlfriend
+Parker||Male||gender
+Parker||Phoebe Buffay||ex-girlfriend
+Pat Finn||Male||gender
+Pat Finn||July 31, 1965||date_of_birth
+Paul Lazarus||Male||gender
+Paul Rudd||Male||gender
+Paul Rudd||April 6, 1969||date_of_birth
+Paul Stevens||Chicken Boy||nicknames
+Paul Stevens||Dad, Daddy||nicknames
+Paul Stevens||Mr. Stevens||nicknames
+Paul Stevens||Male||gender
+Paul Stevens||Lawyer||title
+Paul Stevens||Mr. Stevens Sr.||father
+Paul Stevens||† Mrs. Stevens Sr.||mother
+Paul Stevens||† Ms. Stevens||sister
+Paul Stevens||† Mrs. Stevens||wife
+Paul Stevens||† Elizabeth Stevens||daughter
+Paul Stevens||Mrs. Stevens||wife
+Paul Stevens||† Rachel Green||ex-girlfriend
+Paul the Wine Guy||Paul||name
+Paul the Wine Guy||Male||gender
+Paul the Wine Guy||Franny||one-night_stand
+Paul the Wine Guy||Monica Geller||one-night_stand
+Paula||Female||gender
+Paula||Chef||title
+Paulo Costanzo||Male||gender
+Paulo Costanzo||September 21, 1978||date_of_birth
+Penny Stanton||Female||gender
+Penny Stanton||September 2, 1916||date_of_birth
+Perry Rein||Male||gender
+Pete Becker||Male||gender
+Pete Becker||Computer Mogul||title
+Pete Becker||Mixed Martial Artist||title
+Peter||Male||gender
+Peter||-||title
+Peter Bonerz||Male||gender
+Peter Bonerz||August 6, 1938||date_of_birth
+Phoebe Buffay-Hannigan||Pheebs||nicknames
+Phoebe Buffay-Hannigan||||nicknames
+Phoebe Buffay-Hannigan||Princess Consuela Bananahammock||nicknames
+Phoebe Buffay-Hannigan||Phyllis||nicknames
+Phoebe Buffay-Hannigan||The Lady Who Sings About the Truth||nicknames
+Phoebe Buffay-Hannigan||Valerie||nicknames
+Phoebe Buffay-Hannigan||Pooh||nicknames
+Phoebe Buffay-Hannigan||PeHee||nicknames
+Phoebe Buffay-Hannigan||Emma||nicknames
+Phoebe Buffay-Hannigan||Female||gender
+Phoebe Buffay-Hannigan||February 16, 1968||date_of_birth
+Phoebe Buffay-Hannigan||Masseuse||title
+Phoebe Buffay-Hannigan||Mugger||title
+Phoebe Buffay-Hannigan||Songwriter/musician||title
+Phoebe Buffay-Hannigan||TV Show Extra||title
+Phoebe Buffay-Hannigan||Telemarketer||title
+Phoebe Buffay-Hannigan||Substitute Secretary||title
+Phoebe Buffay-Hannigan||Dairy Queen worker||title
+Phoebe Buffay-Hannigan||Biological Frank Buffay Sr.||father
+Phoebe Buffay-Hannigan||Phoebe Abbott||biological_mother
+Phoebe Buffay-Hannigan||Ursula Buffay||older_twin_sister
+Phoebe Buffay-Hannigan||Frank Buffay Jr.||paternal_half-brother
+Phoebe Buffay-Hannigan||Frank Jr. Jr.||half-nephew
+Phoebe Buffay-Hannigan||Leslie Buffay||half-niece
+Phoebe Buffay-Hannigan||Chandler Buffay||half-niece
+Phoebe Buffay-Hannigan||Silvia||aunt
+Phoebe Buffay-Hannigan||Mary||aunt
+Phoebe Buffay-Hannigan||Lily Buffay||mother
+Phoebe Buffay-Hannigan||Frances||adoptive_grandmother
+Phoebe Buffay-Hannigan||Mike Hannigan||husband
+Phoebe Buffay-Hannigan||Duncan||ex-husband
+Phoebe Buffay-Hannigan||Mrs. Buffay||stepmother
+Phoebe Buffay-Hannigan||Alice Knight||half-sister-in-law
+Phoebe Buffay-Hannigan||Theodore Hannigan||father-in-law
+Phoebe Buffay-Hannigan||Bitsy Hannigan||mother-in-law
+Phoebe Buffay-Hannigan||Gary||ex-boyfriend
+Phoebe Buffay-Hannigan||David||ex-boyfriend
+Phoebe Buffay-Hannigan||Ross Geller||made-out
+Phoebe Buffay-Hannigan||Joey Tribbiani Jr.||kissed
+Phoebe Buffay-Hannigan||Eric||ex-boyfriend
+Phoebe Buffay-Hannigan||Malcolm||ex-boyfriend
+Phoebe Buffay-Hannigan||Other ex-boyfriends  Rachel Green||kissed
+Phoebe's stepfather||Male||gender
+Phoebe's stepfather||Frances||mother-in-law
+Phoebe's stepfather||Lily Buffay||wife,_deseased
+Phoebe's stepfather||Ursula Buffay||stepdaughter
+Phoebe's stepfather||Phoebe Buffay||stepdaughter
+Phoebe's stepfather||Mike Hannigan||stepson-in-law
+Phoebe's stepfather||Duncan||ex-stepson-in-law
+Phoebe Abbott||Female||gender
+Phoebe Abbott||Real Estate Agent||title
+Phoebe Abbott||Real Estate Agent||employer
+Phoebe Abbott||Artist||title
+Phoebe Abbott||BiologicalPhoebe Buffay||daughter
+Phoebe Abbott||Ursula Buffay||daughter
+Phoebe Abbott||Mike Hannigan||son-in-law
+Phoebe Abbott||Duncan Sullivan||ex-son-in-law
+Phoebe Abbott||Frank Buffay||ex-boyfriend
+Phoebe Abbott||Lily Buffay||ex-girlfriend
+Ben Geller||Male||gender
+Ben Geller||May 11, 1995||date_of_birth
+Ben Geller||Student||title
+Ben Geller||Actor||title
+Ben Geller||Ross Geller||father
+Ben Geller||Carol Willick||mother
+Ben Geller||Emma Geller-Green||paternal_half-sister
+Ben Geller||Monica Geller||paternal_aunt
+Ben Geller||Jack Geller||paternal_grandfather
+Ben Geller||Judy Geller||paternal_grandmother
+Ben Geller||George Willick||maternal_grandfather
+Ben Geller||Adelaide Willick||maternal_grandmother
+Ben Geller||Minnie||maternal_great-grandmother
+Ben Geller||Althea||paternal_great-grandmother
+Ben Geller||Jack Bing||paternal_cousin
+Ben Geller||Erica Bing||paternal_cousin
+Ben Geller||Chandler Bing||paternal_uncle/godfather
+Ben Geller||Susan Bunch||stepmother
+Ben Geller||Rachel Green||stepmother
+Ben Geller||Emily Waltham||ex-step-mother
+Ben Geller||Mr. Bunch||step-grandfather
+Ben Geller||Mrs. Bunch||step-grandmother
+Ben Geller||Leonard Green||step-grandfather
+Ben Geller||Sandra Green||step-grandmother
+Ben Geller||Amy Green||step-aunt
+Ben Geller||Jill Green||step-aunt
+Precious||Female||gender
+Rachel Karen Green-Geller||Rachel Green||name
+Rachel Karen Green-Geller||Rach||nicknames
+Rachel Karen Green-Geller||Green||nicknames
+Rachel Karen Green-Geller||Ray-Ray||nicknames
+Rachel Karen Green-Geller||Pumpkin||nicknames
+Rachel Karen Green-Geller||Sweet pea||nicknames
+Rachel Karen Green-Geller||Sweetie||nicknames
+Rachel Karen Green-Geller||Sweetheart||nicknames
+Rachel Karen Green-Geller||Raquel||nicknames
+Rachel Karen Green-Geller||Raquela||nicknames
+Rachel Karen Green-Geller||Rocky||nicknames
+Rachel Karen Green-Geller||My New Bride||nicknames
+Rachel Karen Green-Geller||Princess Bubbleyum||nicknames
+Rachel Karen Green-Geller||Tiger||nicknames
+Rachel Karen Green-Geller||Dear||nicknames
+Rachel Karen Green-Geller||Honey||nicknames
+Rachel Karen Green-Geller||Mrs. Geller||nicknames
+Rachel Karen Green-Geller||Female||gender
+Rachel Karen Green-Geller||May 5, 1970||date_of_birth
+Rachel Karen Green-Geller||Waitress||title
+Rachel Karen Green-Geller||Central Perk||employer
+Rachel Karen Green-Geller||Assistant||title
+Rachel Karen Green-Geller||Fortunata Fashions||employer
+Rachel Karen Green-Geller||Buyer and Personal Shopper||title
+Rachel Karen Green-Geller||Bloomingdale's||employer
+Rachel Karen Green-Geller||Executive||title
+Rachel Karen Green-Geller||Ralph Lauren||employer
+Rachel Karen Green-Geller||Leonard Green||father
+Rachel Karen Green-Geller||Sandra Green||mother
+Rachel Karen Green-Geller||Amy Green||younger_sister
+Rachel Karen Green-Geller||Jill Green||younger_sister
+Rachel Karen Green-Geller||Ida Green||paternal_grandmother
+Rachel Karen Green-Geller||Muriel||grandaunt
+Rachel Karen Green-Geller||Emma Geller-Green||daughter
+Rachel Karen Green-Geller||Ross Geller||husband
+Rachel Karen Green-Geller||Jack Geller||father-in-law
+Rachel Karen Green-Geller||Judy Geller||mother-in-law
+Rachel Karen Green-Geller||Monica Geller||sister-in-law
+Rachel Karen Green-Geller||Chandler Bing||brother-in-law
+Rachel Karen Green-Geller||Ben Geller||stepson
+Rachel Karen Green-Geller||Erica Bing||niece
+Rachel Karen Green-Geller||Jack Bing||nephew
+Rachel Karen Green-Geller||Aunt Cheryl||aunt-in-law
+Rachel Karen Green-Geller||Cassie Geller||cousin-in-law
+Rachel Karen Green-Geller||Cousin Frannie||cousin-in-law
+Rachel Karen Green-Geller||Aunt Lisa||aunt-in-law
+Rachel Karen Green-Geller||Uncle Dan||uncle-in-law
+Rachel Karen Green-Geller||Stuart||cousin-in-law
+Rachel Karen Green-Geller||Aunt Lillian||aunt-in-law
+Rachel Karen Green-Geller||Aunt Phylis||aunt-in-law
+Rachel Karen Green-Geller||Uncle Murray||uncle-in-law
+Rachel Karen Green-Geller||Aunt Millie||aunt-in-law
+Rachel Karen Green-Geller||Aunt Marilyn||aunt-in-law
+Rachel Karen Green-Geller||Aunt Liddy||aunt-in-law
+Rachel Karen Green-Geller||Aunt Sylvia||aunt-in-law
+Rachel Karen Green-Geller||Aunt Iris||aunt-in-law
+Rachel Karen Green-Geller||Althea||grandmother-in-law
+Rachel Karen Green-Geller||† Althea's husband||grandfather-in-law
+Rachel Karen Green-Geller||Ross Geller||husband
+Rachel Karen Green-Geller||Ross Geller||love_of_her_life
+Rachel Karen Green-Geller||Paolo||ex-boyfriend
+Rachel Karen Green-Geller||Paul Stevens||ex-boyfriend
+Rachel Karen Green-Geller||Tag Jones||ex-boyfriend
+Rachel Karen Green-Geller||Joshua Burgin||ex-boyfriend
+Rachel Karen Green-Geller||Danny||ex-boyfriend
+Rachel Karen Green-Geller||Joey Tribbiani||ex-boyfriend
+Rachel Karen Green-Geller||Several other ex-boyfriendsBarry Farber||ex-fiancé
+Rachel Karen Green-Geller||Phoebe Buffay||kissed
+Rachel Karen Green-Geller||Monica Geller||kissed
+Rachel Karen Green-Geller||Chandler Bing||kissed
+Ralph Lauren||Male||gender
+Ralph Lauren||Fashion Designer||title
+Randall||Male||gender
+Randall||Dealer||title
+Randall||Caesar||employer
+Reese Witherspoon||Female||gender
+Reese Witherspoon||March 22, 1976||date_of_birth
+Rhonda||Female||gender
+Rhonda||Tourguide||title
+Rhonda||the museum||employer
+Richard Burke||Male||gender
+Richard Burke||December 10 1948||date_of_birth
+Richard Burke||Ophthalmologist||title
+Richard Burke||Timothy Burke||son
+Richard Burke||Michelle Burke||daughter
+Richard Burke||Unnamed lady||sister
+Richard Burke||Henry||grandson
+Richard Burke||Monica Geller||ex-girlfriend
+Richard Burke||Barbara Burke||ex-wife
+Ben Stiller||November 30, 1965||date_of_birth
+Richard Darnville||Male||gender
+Richard Goodman||Male||gender
+Rick||Male||gender
+Ben Weiss||Male||gender
+Rick Sanoven||Male||gender
+Rick Sanoven||Phoebe||brief_love_interest
+Rob Donnen||Male||gender
+Robbie||Male||gender
+Robbie||~1980||date_of_birth
+Robbie||school boy||title
+Robby Benson||Male||gender
+Robby Benson||January 21, 1956||date_of_birth
+Robert Costanzo||Male||gender
+Robert Costanzo||October 20, 1942||date_of_birth
+Robert Gant||Male||gender
+Robert Gant||July 13, 1968||date_of_birth
+Bobbie Morganstern||Female||gender
+Bobbie Morganstern||circa 1968||date_of_birth
+Bobbie Morganstern||Acting agent||title
+Robin Williams||Male||gender
+Robin Williams||July 21, 1951||date_of_birth
+Robinson Twins||Unknown||gender
+Robinson Twins||2004||date_of_birth
+Robinson Twins||Mark Robinson||father
+Robinson Twins||Mrs. Robinson||mother
+Roger||Male||gender
+Roger||Psychiatrist||title
+Roger||Psychiatrist||employer
+Roger||Phoebe Buffay||ex-girlfriend
+Roger Christiansen||Male||gender
+Roger Christiansen||October 2, 1952||date_of_birth
+Aisha Tyler||Female||gender
+Aisha Tyler||September 18, 1970||date_of_birth
+Ronni Rapalono||Female||gender
+Ronni Rapalono||Pet mortician||title
+Ronni Rapalono||Joey Tribbiani Sr.||affair
+Ross Geller||Ross Eustace Geller||name
+Ross Geller||The Divorce-o||nicknames
+Ross Geller||Ross the Divorcer||nicknames
+Ross Geller||Professor McNails-His-Students||nicknames
+Ross Geller||Wet Pants Geller||nicknames
+Ross Geller||Dino-Guy||nicknames
+Ross Geller||Bea||nicknames
+Ross Geller||The Dinosaur Guy||nicknames
+Ross Geller||Cookie Duuude||nicknames
+Ross Geller||Gel Boy||nicknames
+Ross Geller||BoBo the Sperm Guy||nicknames
+Ross Geller||Dr. Monkey||nicknames
+Ross Geller||Ron||nicknames
+Ross Geller||Don||nicknames
+Ross Geller||The Porn King of the West Village||nicknames
+Ross Geller||Sweetie, Honey, Baby, Hubby||nicknames
+Ross Geller||Lovey Loverson||nicknames
+Ross Geller||Pampers||nicknames
+Ross Geller||White Boy||nicknames
+Ross Geller||Mother Kisser||nicknames
+Ross Geller||Rossie||nicknames
+Ross Geller||Ross - The Divorce Force||nicknames
+Ross Geller||Red Ross||nicknames
+Ross Geller||Dr. Geller||nicknames
+Ross Geller||Wet Head||nicknames
+Ross Geller||Mental Geller||nicknames
+Ross Geller||Mr. Big Shot||nicknames
+Ross Geller||The Holiday Armadillo||nicknames
+Ross Geller||Brown Bird Ross||nicknames
+Ross Geller||4||marriages
+Ross Geller||Male||gender
+Ross Geller||October 18, 1967||date_of_birth
+Ross Geller||Paleontologist||title
+Ross Geller||College Professor||title
+Ross Geller||Studies Dinosaurs||title
+Ross Geller||Jack Geller||father
+Ross Geller||Judy Geller||mother
+Ross Geller||Monica Geller||sister
+Ross Geller||Ben Geller||son
+Ross Geller||Emma Geller-Green||daughter
+Ross Geller||Althea †||maternal_grandmother
+Ross Geller||Althea's husband||maternal_grandfather
+Ross Geller||Cassie Geller||paternal_cousin
+Ross Geller||Aunt Liddy||paternal_aunt
+Ross Geller||Cousin Frannie||paternal_cousin
+Ross Geller||Aunt Phylis||maternal_aunt
+Ross Geller||Aunt Lillian||maternal_aunt
+Ross Geller||Aunt Sylvia||aunt
+Ross Geller||Aunt Iris||paternal_aunt
+Ross Geller||Aunt Millie||paternal_aunt
+Ross Geller||Aunt Cheryl||aunt
+Ross Geller||Uncle Freddie||uncle
+Ross Geller||Aunt Lisa||aunt
+Ross Geller||Aunt Marilyn||aunt
+Ross Geller||Uncle Dan||uncle
+Ross Geller||Uncle Murray||uncle
+Ross Geller||Jack Bing||nephew
+Ross Geller||Erica Bing||niece
+Ross Geller||Marcel||former_pet_monkey
+Ross Geller||Rachel Green||wife
+Ross Geller||Carol Willick||ex-wife
+Ross Geller||Emily Waltham||ex-wife
+Ross Geller||Chandler Bing||brother-in-law
+Ross Geller||Leonard Green||father-in-law
+Ross Geller||Sandra Green||mother-in-law
+Ross Geller||Amy Green||sister-in-law
+Ross Geller||Jill Green||sister-in-law
+Ross Geller||George Willick||ex-father-in-law
+Ross Geller||Adelaide Willick||ex-mother-in-law
+Ross Geller||Mrs. Waltham||ex-mother-in-law
+Ross Geller||Stephen Waltham||ex-father-in-law
+Ross Geller||Andrea Waltham||ex-stepmother-in-law
+Ross Geller||Mr. Waltham||ex-uncle-in-law
+Ross Geller||Minnie||ex-grandmother-in-law
+Ross Geller||Ida Green||grandmother-in-law
+Ross Geller||Muriel||great-aunt-in-law
+Ross Geller||Rachel Green||wife
+Ross Geller||Rachel Green||love_of_his_life
+Ross Geller||Phoebe Buffay||make-out
+Ross Geller||Bonnie||ex-girlfriend
+Ross Geller||Charlie Wheeler||ex-girlfriend
+Ross Geller||Jill Green||ex-girlfriend
+Ross Geller||Mona||ex-girlfriend
+Ross Geller||Julie||ex-girlfriend
+Ross Geller||Elizabeth Stevens||ex-girlfriend
+Ross Geller||Joey Tribbiani Jr.||kissed
+Ross Geller||Janice||dated
+Ross Zelner||Male||gender
+Ross Zelner||Mr. Zelner||father
+Benjamin Hobart||Male||gender
+Benjamin Hobart||Paleontologist||title
+Benjamin Hobart||Charlie Wheeler||girlfriend
+Rossella Acerbo||Female||gender
+Rossella Acerbo||August 25, 1973||date_of_birth
+Roy||Male||gender
+Roy||Stripper||title
+Roy Gublik||Male||gender
+Russ||Male||gender
+Russ||Periodontist||title
+Russ||Ross Geller||doppelgänger
+Russ||Rachel Green||ex-girlfriend
+Russ||Julie||girlfriend
+Russell||Male||gender
+Russell||Divorce attorney||title
+Russell||Divorce attorney||employer
+Ryan||Male||gender
+Ryan||Lieutenant Commander, United States Navy||title
+Ryan||Lieutenant Commander, United States Navy||employer
+Ryan||Phoebe Buffay||dated
+Sally||Female||gender
+Sam McMurray||Male||gender
+Sam McMurray||April 15, 1952||date_of_birth
+Samantha Smith||Female||gender
+Samantha Smith||November 4, 1969||date_of_birth
+Sandra Green||Female||gender
+Sandra Green||Leonard Green||ex-husband
+Sandra Green||Rachel Green||daughter
+Sandra Green||Jill Green||daughter
+Sandra Green||Amy Green||daughter
+Sandra Green||Ross Geller||son-in-law
+Sandra Green||Emma Geller-Green||granddaughter
+Sandra Green||Ben Geller||step-grandson
+Sandra Green's father||Male||gender
+Sandra Green's father||Sandra Green||daughter
+Sandra Green's father||Leonard Green||ex-son-in-law
+Sandra Green's father||Rachel Green||granddaughter
+Sandra Green's father||Jill Green||granddaughter
+Sandra Green's father||Amy Green||granddaughter
+Sandra Green's father||Emma Geller-Green||great-granddaughter
+Sandra Green's father||Ross Geller||grandson-in-law
+Sandra Green's father||Ben Geller||step-great-grandson
+Sandy||Male||gender
+Sandy||Nanny||title
+Sarah||Female||gender
+Sarah||Cooking Teacher||title
+Sarah Tuttle||Female||gender
+Sarah Tuttle||Between 1985 and 1989||date_of_birth
+Sarah Tuttle||Student||title
+Schnoodle||Male||gender
+Schnoodle||Pet||title
+Bill||Male||gender
+Bill||Owen||son
+Bill||Colleen||wife
+Bill Lawrence||Male||gender
+Bill Lawrence||December 26, 1968||date_of_birth
+Sebastian Jones||Male||gender
+Selma Blair||Female||gender
+Selma Blair||June 23, 1972||date_of_birth
+Sergei||Male||gender
+Sergei||-||date_of_birth
+Sergei||Diplomat||title
+Sergei||Diplomat||employer
+Sergei||Phoebe Buffay||ex-girlfriend
+Billy Crystal||Male||gender
+Billy Crystal||March 14, 1948||date_of_birth
+Seth Kurland||Male||gender
+Shana Goldberg-Meehan||Female||gender
+Sheldon Epps||Male||gender
+Sheldon Epps||November 15, 1952||date_of_birth
+Shelley Jensen||Male||gender
+Shelly||Female||gender
+Shelly||Co-worker of Chandler||title
+Bitsy Hannigan||Female||gender
+Bitsy Hannigan||Mike Hannigan||son
+Bitsy Hannigan||Theodore Hannigan||husband
+Bitsy Hannigan||Phoebe Buffay||daughter-in-law
+Sherilyn Fenn||Female||gender
+Sherilyn Fenn||February 1, 1965||date_of_birth
+Sherri Shepherd||Female||gender
+Sherri Shepherd||April 22, 1967||date_of_birth
+Sherry Bilsing||Female||gender
+Sid Goralnik||Male||gender
+Sid Goralnik||Wall St.||title
+Sid Goralnik||Janice Litman Goralnik||wife
+Sid Goralnik||Aaron Goralnik||son
+Simone Mori||Male||gender
+Simone Mori||November 18, 1965||date_of_birth
+David Schwimmer||Male||gender
+David Schwimmer||November 2, 1966||date_of_birth
+Sonya||Female||gender
+Sonya||Hair Stylist||title
+Bob||Male||gender
+Sophie||Female||gender
+Sophie||Assistant||title
+Sophie||Bloomingdale's||employer
+Stan Kirsch||Male||gender
+Stan Kirsch||July 15, 1968||date_of_birth
+Stephanie||Stephanie Schiffer||name
+Stephanie||Female||gender
+Stephanie||Musician||title
+Bob||Data processor||title
+Bob||Data processor||employer
+Stephen Kearney||Male||gender
+Stephen Prime||Male||gender
+Stephen Waltham||Male||gender
+Stephen Waltham||Mr. Waltham||brother
+Stephen Waltham||Mrs. Waltham||first_wife_or_ex-wife
+Stephen Waltham||Andrea Waltham||wife
+Stephen Waltham||Emily Waltham||daughter
+Stephen Waltham||Emily's cousin||nephew
+Stephen Waltham||Ross Geller||ex-son-in-law
+Stephen Waltham||Ben Geller||ex-step-grandson
+Steve||Male||gender
+Steve||Senior copywriter||title
+Steve Cera||Male||gender
+Steve||Restaurant owner||title
+Steve||T-shirt silk screener||title
+Steve Zuckerman||Male||gender
+Steven Eckholdt||Male||gender
+Steven Eckholdt||September 6, 1961||date_of_birth
+Steven Fisher||Male||gender
+Steven Fisher||Lawyer||title
+Bob Balaban||Male||gender
+Bob Balaban||August 16, 1945||date_of_birth
+Mr. Stevens Sr.||Male||gender
+Mr. Stevens Sr.||Mrs. Stevens Sr.||wife
+Mr. Stevens Sr.||† Paul Stevens||son
+Mr. Stevens Sr.||Ms. Stevens||daughter
+Mr. Stevens Sr.||† Mrs. Stevens||daughter-in-law
+Mr. Stevens Sr.||† Elizabeth Stevens||granddaughter
+Mrs. Stevens Sr.||Female||gender
+Mrs. Stevens Sr.||Mr. Stevens Sr.||husband
+Mrs. Stevens Sr.||† Paul Stevens||son
+Mrs. Stevens Sr.||Ms. Stevens||daughter
+Mrs. Stevens Sr.||† Mrs. Stevens||daughter-in-law
+Mrs. Stevens Sr.||† Elizabeth Stevens||granddaughter
+Stryker Ramoray||Male||gender
+Stu||Male||gender
+Stu||Waiter||title
+Stu||Allesandro's||employer
+Stuart||Male||gender
+Stuart||Cousin Frannie||wife
+Stuart||Aunt Cheryl||mother-in-law
+Stuart||Jack Geller||uncle_in-law
+Stuart||Judy Geller||aunt-in-law_by_marriage
+Stuart||Ross Geller||cousin_in-law
+Stuart||Rachel Green||cousin_in-law
+Stuart||Ben Geller||cousin_once_removed_in-law
+Stuart||Emma Geller-Green||cousin_once_removed_in-law
+Stuart||Monica Geller-Bing||cousin_in-law
+Stuart||Chandler Bing||cousin_in-law
+Stuart||Jack Bing||adoptive_cousin_once_removed_in-law
+Stuart||Erica Bing||adoptive_cousin_once_removed_in-law
+Stuart||Monica Geller-Bing||ex-girlfriend
+Susan Bunch||Susan Bunch-Willick||nicknames
+Susan Bunch||Female||gender
+Susan Bunch||February 28, 1970||date_of_birth
+Susan Bunch||Mr. Bunch||father
+Susan Bunch||Mrs. Bunch||mother
+Susan Bunch||Carol Willick||wife
+Susan Bunch||Ben Geller||stepson
+Susan Bunch||George Willick||father-in-law
+Susan Bunch||Adelaide Willick||mother-in-law
+Susan Sarandon||Female||gender
+Susan Sarandon||October 4, 1946||date_of_birth
+Susan Ward||Female||gender
+Susan Ward||April 15, 1976||date_of_birth
+Susan Yeagley||Female||gender
+Susan Yeagley||February 27, 1972||date_of_birth
+Susie Moss||Female||gender
+Susie Moss||Hair and make-up dresser||title
+Susie Moss||Chandler Bing||ex-boyfriend
+Suzanna Voltaire||Female||gender
+Suzanna Voltaire||?||date_of_birth
+Suzie V. Freeman||Female||gender
+Suzie V. Freeman||August 27, 1969||date_of_birth
+Tabitha||Female||gender
+Tabitha||-||date_of_birth
+Tabitha||Nanny||title
+Tabitha||Molly||girlfriend
+Tag Jones||Male||gender
+Tag Jones||1977||date_of_birth
+Tag Jones||Rachel Green's assistant||title
+Tag Jones||Rachel Green||ex-girlfriend
+Tank Abbott||David Lee "Tank" Abbott||name
+Tank Abbott||Male||gender
+Tank Abbott||Ultimate Fighter||title
+Tank Abbott||Ultimate Fighter||employer
+Tate Donovan||Male||gender
+Tate Donovan||September 25, 1963||date_of_birth
+Teri Garr||Female||gender
+Teri Garr||December 11, 1947||date_of_birth
+Terry||Male||gender
+Terry||Coffeeshop owner||title
+Terry||the casting director||title
+Al Zebooker||Male||gender
+Al Zebooker||Paper EaterActor||title
+Al Zebooker||Paper EaterActor||employer
+Terry Hughes||Male||gender
+The Chick and the Duck||Female Duck, Male Chicken||gender
+The Chick and the Duck||1993 (Duck)1997 (Chick)||date_of_birth
+The Chick and the Duck||Pets||title
+The Chick and the Duck||Joey Tribbiani||owner
+The Chick and the Duck||Chandler Bing||owner
+The Chick and the Duck||Chick Jr. & Duck Jr.||name
+The Chick and the Duck||2004||date_of_birth
+Dr. Robert Bobby||Male||gender
+Dr. Robert Bobby||Chiropractor||title
+The Doctor||Male||gender
+The Doctor||Doctor||title
+The Dry Cleaner||Male||gender
+The Dry Cleaner's Wife||Female||gender
+The Hombre Man||Todd||name
+The Hombre Man||Male||gender
+The Hombre Man||Cologne salesman||title
+The Hombre Man||Annabel||one_date
+Mitzi||Female||gender
+The Housekeeper||Female||gender
+The Housekeeper||Housekeeper||title
+Bobby Corso||Male||gender
+Gary Litman||Male||gender
+Gary Litman||Mattress salesman||title
+Gary Litman||Mattress salesman||employer
+Gary Litman||Janice Litman Goralnik||ex-wife
+Gary Litman||Little Miss New-Boobs||wife
+Gary Litman||The twins||possible_children_or_step-children
+Bonnie||Female||gender
+Bonnie Somerville||Female||gender
+Bonnie Somerville||February 24, 1974||date_of_birth
+Brad Pitt||Male||gender
+Brad Pitt||December 18, 1963||date_of_birth
+Brand New Huggsy||Unknown||gender
+Brand New Huggsy||Joey||ex-owner
+Brand New Huggsy||Emma||enemies
+Brand New Huggsy||Rachel||acquaintance
+Alan||Male||gender
+Alan||Monica Geller||ex-girlfriend
+Alan||Melissa Warburton||girlfriend
+Brenda||Female||gender
+Brenda||Maid||title
+Brenda Vaccaro||Female||gender
+Brenda Vaccaro||November 19, 1939||date_of_birth
+Brian Boyle||Male||gender
+Brian Buckner||Male||gender
+Brian Caldirola||Male||gender
+Brittany Tribbiani||Female||gender
+Brittany Tribbiani||-||title
+Brittany Tribbiani||Joey Tribbiani||imaginary_father
+Brittany Tribbiani||Karen||imaginary_mother
+Brittany Tribbiani||Ashley Tribbiani||imaginary_sister
+Brittany Tribbiani||Joey Tribbiani Sr.||imaginary_grandfather
+Brittany Tribbiani||Gloria Tribbiani||imaginary_grandmother
+Brittany Tribbiani||Tribbiani Sisters||imaginary_aunts
+Brittney Powell||Female||gender
+Brittney Powell||March 4, 1972||date_of_birth
+Brooke Shields||Female||gender
+Brooke Shields||May 31, 1965||date_of_birth
+Brown Mandell||Male||gender
+Bruce Buffer||Male||gender
+Bruce Buffer||Octagon Announcer||title
+Bruce Willis||Male||gender
+Bruce Willis||March 19, 1955||date_of_birth
+Buddy Doyle||Male||gender
+Buddy Doyle||Attorney||title
+Alan Myerson||Male||gender
+Alan Myerson||July 1, 1940||date_of_birth
+Caitlin||Female||gender
+Caitlin||Pizza delivery girl||title
+Carl||Male||gender
+Carlos||Male||gender
+Carlos||Chef||title
+Carlos||Emilio||father
+Carlos||Tony||brother
+Carlos||Marie||sister
+Albert||Albert Bing||name
+Albert||Male||gender
+Albert||Chandler Bing||cousin
+Carly Thomas||Female||gender
+Carol Willick||Carol Geller||nicknames
+Carol Willick||Carol Willick-Bunch||nicknames
+Carol Willick||Female||gender
+Carol Willick||June 23, 1969||date_of_birth
+Carol Willick||Sixth Grade Teacher||title
+Carol Willick||George Willick||father
+Carol Willick||Adelaide Willick||mother
+Carol Willick||Minnie||grandmother
+Carol Willick||Ben Geller||son
+Carol Willick||Ross Geller||ex-husband
+Carol Willick||Jack Geller||ex-father-in-law
+Carol Willick||Judy Geller||ex-mother-in-law
+Carol Willick||Monica Geller-Bing||ex-sister-in-law
+Carol Willick||Susan Bunch||wife
+Carol Willick||Mr. Bunch||father-in-law
+Carol Willick||Mrs. Bunch||mother-in-law
+The Tanning Salon Guy||Male||gender
+The Tanning Salon Guy||Tanning salon worker||title
+The Thief||Male||gender
+The Thief||Burglar||title
+Frank Jr. Jr., Leslie, Chandler||Frank Jr. Jr. Leslie Buffay  Chandler Buffay||name
+Frank Jr. Jr., Leslie, Chandler||Frank Jr. Jr.(male) Leslie Buffay (female)  Chandler Buffay (female)||gender
+Frank Jr. Jr., Leslie, Chandler||October 8, 1998||date_of_birth
+Frank Jr. Jr., Leslie, Chandler||Frank Buffay Sr.||grandfather
+Frank Jr. Jr., Leslie, Chandler||Mrs. Buffay||grandmother
+Frank Jr. Jr., Leslie, Chandler||Phoebe Buffay||half-aunt
+Frank Jr. Jr., Leslie, Chandler||Phoebe Buffay||surrogate_mother
+Frank Jr. Jr., Leslie, Chandler||Ursula Buffay||half-aunt
+Frank Jr. Jr., Leslie, Chandler||Frank Buffay Jr.||father
+Frank Jr. Jr., Leslie, Chandler||Alice Knight Buffay||mother
+Waiter||Male||gender
+Waiter||Ross Geller||crush
+Waiter||Joey Tribbiani||crush
+The Zoo Employee (real name unknown)||Male||gender
+The Zoo Employee (real name unknown)||Zoo Janitor||title
+Caroline Duffy||Female||gender
+Caroline Duffy||Cartoonist||title
+Theodore Hannigan||Male||gender
+Theodore Hannigan||Mike Hannigan||son
+Theodore Hannigan||Bitsy Hannigan||wife
+Theodore Hannigan||Phoebe Buffay||daughter-in-law
+Thomas Patrick Lennon||Male||gender
+Thomas Patrick Lennon||August 9, 1970  Oak Park, Illinois, U.S.||date_of_birth
+Thomas Patrick Lennon||Actor, comedian, screenwriter, producer, director||title
+Thomas Schlamme||Male||gender
+Thomas Schlamme||May 22, 1950||date_of_birth
+Tilly||Female||gender
+Tilly||Eddie||ex-boyfriend
+Tim||Male||gender
+Tim||Souschef||title
+Tim||Allesandro's||employer
+Tim||Phoebe Buffay||ex-girlfriend
+Tim||Gynecologist||title
+Timothy Burke||Dr. Timothy Burke||name
+Timothy Burke||Male||gender
+Timothy Burke||Optometrist||title
+Timothy Burke||Richard Burke||father
+Timothy Burke||Barbara Burke||mother
+Timothy Burke||Michelle Burke||sister
+Timothy Burke||Henry||nephew
+Timothy Burke||Monica Geller-Bing||kissed
+Tina||Tina Tribbiani||name
+Tina||Female||gender
+Tina||Joey Tribbiani||brother
+Tina||Joey Tribbiani Sr.||father
+Tina||Gloria Tribbiani||mother
+Tina||Nonnie||grandmother
+Tina||Gina||sister
+Tina||Dina||sister
+Tina||Mary-Angela||sister
+Tina||Mary-Therese||sister
+Tina||Veronica||sister
+Tina||Cookie||sister
+Tina||Michael Tribbiani||nephew
+Todd Holland||Male||gender
+Tom||Male||gender
+Tom Conti||Male||gender
+Tom Conti||22 November 1941||date_of_birth
+Tom Selleck||Male||gender
+Tom Selleck||01/29/45||date_of_birth
+Tomas||Male||gender
+Tommy||Male||gender
+Tony||Male||gender
+Tony||-||title
+Tony||Chef||title
+Tony||Emilio||father
+Tony||Carlos||brother
+Tony||Marie||sister
+Cassie Geller||Female||gender
+Cassie Geller||Jack Geller||uncle
+Cassie Geller||Judy Geller||aunt
+Cassie Geller||Ross Geller||cousin
+Cassie Geller||Monica Geller||cousin
+Cassie Geller||Chandler Bing||cousin-in-law
+Cassie Geller||Ben Geller||first_cousin_once_removed
+Cassie Geller||Emma Geller-Green||first_cousin_once_removed
+Cassie Geller||Jack Bing||adoptive_first_cousin_once_removed
+Cassie Geller||Erica Bing||adoptive_first_cousin_once_removed
+Trudie Styler||Female||gender
+Trudie Styler||Sting||husband
+Ugly Naked Guy||Male||gender
+Uncle Dan||Male||gender
+Uncle Dan||Lisa||wife
+Uncle Dan||Ross Geller||nephew
+Uncle Dan||Monica Geller||niece
+Murray||Uncle Murray||name
+Murray||Male||gender
+Murray||Ross Geller||nephew
+Murray||Monica Geller-Bing||niece
+Murray||Ben Geller||grandnephew
+Murray||Jack Bing||grandnephew
+Murray||Erica Bing||grandniece
+Murray||Chandler Bing||nephew-in-law
+Murray||Rachel Green||niece-in-law
+Murray||Carol Willick||ex-niece-in-law
+Murray||Emily Waltham||ex-niece-in-law
+Sal||Male||gender
+Sal||Joey Tribbiani||nephew
+Sal||Tribbiani Sisters||nieces
+Phoebe Buffay fan||Unknown||name
+Phoebe Buffay fan||Male||gender
+Cathy||Female||gender
+Cathy||directors assistant||title
+Ursula Buffay||Female||gender
+Ursula Buffay||February 16, 1968||date_of_birth
+Ursula Buffay||Waitress||title
+Ursula Buffay||Pornographic actress||title
+Ursula Buffay||Governor of New York||title
+Ursula Buffay||Frances||adoptive_grandmother
+Ursula Buffay||Frank Buffay||father
+Ursula Buffay||Lily Buffay||adoptive_mother
+Ursula Buffay||Phoebe Abbott||biological_mother
+Ursula Buffay||Lily's second husband||stepfather
+Ursula Buffay||Mrs. Buffay||stepmother
+Ursula Buffay||Phoebe Buffay||twin_sister
+Ursula Buffay||Frank Buffay Jr.||paternal_half-brother
+Ursula Buffay||Alice Knight Buffay||half-sister-in-law
+Ursula Buffay||Mike Hannigan||brother-in-law
+Ursula Buffay||Frank Buffay Jr. Jr.||half-nephew
+Ursula Buffay||Leslie Buffay||half-niece
+Ursula Buffay||Chandler Buffay||half-niece
+Ursula Buffay||Joey Tribbiani||ex-boyfriend
+Ursula Buffay||Malcolm||ex-boyfriend
+Ursula Buffay||Eric||ex-fiancé
+Ursula Buffay||Ira||ex-boyfriend
+Cecilia Monroe||Female||gender
+Cecilia Monroe||Joey Tribbiani||former_boyfriend
+Vince||Male||gender
+Vince||Fireman||title
+Vince||Phoebe Buffay||ex-girlfriend
+Vince Vieluf||Male||gender
+Vince Vieluf||November 10, 1970||date_of_birth
+Vincent Ventresca||Male||gender
+Vincent Ventresca||April 29, 1966||date_of_birth
+Vittorio De Angelis||Male||gender
+Vittorio De Angelis||September 20, 1962||date_of_birth
+Vittorio De Angelis||June 11, 2015||date_of_death
+Jessica||Jessica Lockhart/Cecilia Monroe||name
+Jessica||Female||gender
+Wayne||Male||gender
+Wayne Pére||Male||gender
+Wendy||Female||gender
+Whitney||Female||gender
+Whitney||Kyle||ex-husband
+Wil Calhoun||Male||gender
+Wil Calhoun||Television producer, writer||title
+Will Colbert||Male||gender
+Will Colbert||About 1969||date_of_birth
+Will Colbert||Commodities broker||title
+Winona Ryder||Female||gender
+Winona Ryder||October 29, 1971||date_of_birth
+Ethan||Male||gender
+Ethan||1977 or 1978||date_of_birth
+Ethan||Student||title
+Ethan||Monica Geller-Bing||ex-girlfriend
+Zach Miller||Male||gender
+Zach Miller||Actor||title
+Zach Miller||Unknown Wife||spouse
+Chandler Bing||Chandler Muriel Bing||name
+Chandler Bing||Ringo||nicknames
+Chandler Bing||Mr. Big||nicknames
+Chandler Bing||Sir-Limps-a-Lot||nicknames
+Chandler Bing||Roland Chang||nicknames
+Chandler Bing||Shaw-La-La||nicknames
+Chandler Bing||Bing-a-Ling||nicknames
+Chandler Bing||Bing||nicknames
+Chandler Bing||Toby||nicknames
+Chandler Bing||Skidmark||nicknames
+Chandler Bing||Chan-Chan Man||nicknames
+Chandler Bing||Channy||nicknames
+Chandler Bing||Channy Fanny||nicknames
+Chandler Bing||Mondler||nicknames
+Chandler Bing||Chauncey||nicknames
+Chandler Bing||Sweetie, Honey||nicknames
+Chandler Bing||Mr. Sensitivity||nicknames
+Chandler Bing||The Boy Who Hates Thanksgiving||nicknames
+Chandler Bing||Bob||nicknames
+Chandler Bing||Denis||nicknames
+Chandler Bing||Smokey Joe||nicknames
+Chandler Bing||Miss Chanandler Bong||nicknames
+Chandler Bing||'The Funny One'||nicknames
+Chandler Bing||The Dropper||nicknames
+Chandler Bing||The King of Bad Thanksgivings||nicknames
+Chandler Bing||Duck||nicknames
+Chandler Bing||Clint||nicknames
+Chandler Bing||Gene||nicknames
+Chandler Bing||Mark Johnson||nicknames
+Chandler Bing||John Markson||nicknames
+Chandler Bing||Chuckles||nicknames
+Chandler Bing||Male||gender
+Chandler Bing||April 3, 1968||date_of_birth
+Chandler Bing||IT Procurement Manager||title
+Chandler Bing||Junior Advertising Copywriter||title
+Chandler Bing||Charles Bing||father
+Chandler Bing||Nora Tyler Bing||mother
+Chandler Bing||Albert||cousin
+Chandler Bing||Glen||cousin
+Chandler Bing||Jack Bing||son
+Chandler Bing||Erica Bing||daughter
+Chandler Bing||Monica Geller||wife
+Chandler Bing||Ross Geller||brother-in-law
+Chandler Bing||Rachel Green||sister-in-law
+Chandler Bing||Jack Geller||father-in-law
+Chandler Bing||Judy Geller||mother-in-law
+Chandler Bing||Ben Geller||nephew/godson
+Chandler Bing||Emma Geller-Green||niece/goddaughter
+Chandler Bing||Cassie Geller||cousin-in-law
+Chandler Bing||Cousin Frannie||cousin-in-law
+Chandler Bing||Aunt Lillian||aunt-in-law
+Chandler Bing||Althea||grandmother-in-law
+Chandler Bing||Althea's husband||grandfather-in-law
+Chandler Bing||Aunt Liddy||aunt-in-law
+Chandler Bing||Aunt Sylvia||aunt-in-law
+Chandler Bing||Aunt Phylis||aunt-in-law
+Chandler Bing||Uncle Freddie||uncle-in-law
+Chandler Bing||Aunt Iris||aunt-in-law
+Chandler Bing||Aunt Cheryl||aunt-in-law
+Chandler Bing||Aunt Lisa||aunt-in-law
+Chandler Bing||Aunt Marilyn||aunt-in-law
+Chandler Bing||Aunt Millie||aunt-in-law
+Chandler Bing||Uncle Dan||uncle-in-law
+Chandler Bing||Uncle Murray||uncle-in-law
+Chandler Bing||Monica Geller-Bing||wife
+Chandler Bing||Kathy||ex-girlfriend
+Chandler Bing||Janice Litman Goralnik||ex-girlfriend,_1994,_1996,_1998
+Chandler Bing||Joanna||ex-girlfriend
+Alec Baldwin||Male||gender
+Alec Baldwin||April 3, 1958||date_of_birth
+Chandler Buffay||Female||gender
+Chandler Buffay||April 30, 1998||date_of_birth
+Chandler Buffay||Frank Buffay Sr.||grandfather
+Chandler Buffay||Mrs. Buffay||grandmother
+Chandler Buffay||Phoebe Buffay||paternal_half-aunt
+Chandler Buffay||Phoebe Buffay||surrogate_mother
+Chandler Buffay||Ursula Buffay||paternal_half-aunt
+Chandler Buffay||Frank Buffay Jr.||father
+Chandler Buffay||Alice Knight Buffay||mother
+Chandler Buffay||Frank Buffay Jr. Jr.||brother
+Chandler Buffay||Leslie Buffay||sister
+Chappy||Male||gender
+Chappy||Pet||title
+Chappy||Mike Hannigan||owner
+Charla Nichols||Female||gender
+Charla Nichols||Between 1985 and 1989||date_of_birth
+Charla Nichols||Student||title
+Charles Bing/Helena Handbasket||Charles Bing||name
+Charles Bing/Helena Handbasket||Transgender woman||gender
+Charles Bing/Helena Handbasket||Las Vegas Drag Performer||title
+Charles Bing/Helena Handbasket||Chandler Bing||son
+Charles Bing/Helena Handbasket||Jack Geller-Bing||grandson
+Charles Bing/Helena Handbasket||Erica Geller-Bing||granddaughter
+Charles Bing/Helena Handbasket||Nora Tyler Bing||ex-wife
+Charles Bing/Helena Handbasket||Monica Geller||daughter-in-law
+Charles Bing/Helena Handbasket||Mr. Garibaldi||lover
+Charlie Wheeler||Dinosaur Girl||nicknames
+Charlie Wheeler||Female||gender
+Charlie Wheeler||September 18, 1970||date_of_birth
+Charlie Wheeler||Paleontology Professor||title
+Charlie Wheeler||Mr. Wheeler||father
+Charlie Wheeler||Mrs. Wheeler||mother
+Charlie Wheeler||Billy||ex-boyfriend
+Charlie Wheeler||Albert "Albie" Wintermeyer||ex-boyfriend
+Charlie Wheeler||Joey Tribbiani||ex-boyfriend
+Charlie Wheeler||Ross Geller||ex-boyfriend
+Charlie Wheeler||Benjamin Hobart||boyfriend
+Charlie Sheen||Male||gender
+Charlie Sheen||September 3, 1965||date_of_birth
+Cheryl||Beautiful pig (by Joey)||nicknames
+Cheryl||Female||gender
+Cheryl||Ross Geller||dated
+Cheryl Hines||Female||gender
+Cheryl Hines||September 21, 1965||date_of_birth
+Chick Jr. & Duck Jr.||Pets||title
+Chick Jr. & Duck Jr.||Joey Tribbiani||owner
+Chip Matthews||Male||gender
+Chip Matthews||1969||date_of_birth
+Chip Matthews||Movie theater employee||title
+Chip Matthews||Movie theater employee||employer
+Chip Matthews||Rachel Green||prom_date
+Chip Matthews||Amy Welsh||ex-girlfriend
+Chip Matthews||Monica Geller||one_date
+Chloe||Female||gender
+Chloe||-||date_of_birth
+Chloe||Xerox Shop Employee||title
+Chloe||Ross Geller||one-night_stand
+Chris Parnell||Male||gender
+Chris Parnell||February 5, 1967  Memphis, Tennessee, U.S.||date_of_birth
+Chris Parnell||Actor, comedian, voice actor, singer||title
+Christina Applegate||November 25, 1971||date_of_birth
+Alex Borstein||Female||gender
+Alex Borstein||February 15, 1971||date_of_birth
+Christina Pickles||Female||gender
+Christina Pickles||February 17, 1935||date_of_birth
+Christine Taylor||Female||gender
+Christine Taylor||July 30, 1971||date_of_birth
+Alexis Julia Garret||Female||gender
+Alexis Julia Garret||~ 1971||date_of_birth
+Alexis Julia Garret||Lawyer||title
+Alexis Julia Garret||Eric Garrett||ex-husband
+Alexis Julia Garret||Nancy||sister
+Alexis Julia Garret||Joey Tribbiani||boyfriend
+Clea Lewis||Female||gender
+Clifford Burnett||Male||gender
+Clifford Burnett||November 16, 1968||date_of_birth
+Clifford Burnett||Mrs. Burnett†||wife
+Cole Sprouse||Male||gender
+Cole Sprouse||August 4, 1992||date_of_birth
+Colin||Male||gender
+Colin||Unknown||title
+Colin||Emily Waltham||ex-girlfriend
+Colleen||Female||gender
+Colleen||Owen||son
+Colleen||Bill||husband
+Conchata Ferrell||Female||gender
+Conchata Ferrell||March 28, 1943||date_of_birth
+Cosimo Fusco||Male||gender
+Cosimo Fusco||September 23, 1962||date_of_birth
+Courteney Cox||Female||gender
+Courteney Cox||June 15, 1964||date_of_birth
+Cousin Frannie||Female||gender
+Cousin Frannie||Stuart||husband
+Cousin Frannie||Aunt Cheryl||mother
+Cousin Frannie||Jack Geller||uncle
+Cousin Frannie||Judy Geller||aunt_by_marriage
+Cousin Frannie||Ross Geller||cousin
+Cousin Frannie||Rachel Green||cousin_in-law
+Cousin Frannie||Ben Geller||cousin_1×removed
+Cousin Frannie||Emma Geller-Green||cousin_1×removed
+Cousin Frannie||Monica Geller-Bing||cousin
+Cousin Frannie||Chandler Bing||cousin_in-law
+Cousin Frannie||Jack Bing||adoptive_cousin_1×removed
+Cousin Frannie||Erica Bing||adoptive_cousin_1×removed
+Cristine Rose||Female||gender
+Cristine Rose||January 31, 1951||date_of_birth
+Cynthia Mann||Female||gender
+Dakota Fanning||Female||gender
+Dakota Fanning||February 23, 1994||date_of_birth
+Dan||Male||gender
+Dan||Nurse||title
+Dana||Dana Keystone||name
+Dana||Female||gender
+Danny||Male||gender
+Danny||Krista||sister
+Danny||Rachel Green||ex-girlfriend
+Daniel Michael DeVito, Jr.||Male||gender
+Daniel Michael DeVito, Jr.||November 17, 1944||date_of_birth
+Daniel Michael DeVito, Jr.||Actor, filmmaker||title
+Dante Pastula||Male||gender
+Dante Pastula||April 7, 1997||date_of_birth
+Dave||Male||gender
+Dave||Rachel Green||one_date
+David||Male||gender
+David||Physicist||title
+David||Phoebe Buffay||ex-girlfriend
+David Arquette||Male||gender
+David Arquette||September 8, 1971||date_of_birth
+David J. Lagana||Male||gender
+David Steinberg||Male||gender
+David Steinberg||August 9, 1942||date_of_birth
+Alexa Junge||Female||gender
+Alexandra Holden||Female||gender
+Alexandra Holden||April 30, 1977||date_of_birth
+Debra Jo Rupp||Female||gender
+Debra Jo Rupp||February 24, 1951||date_of_birth
+Dedee Pfeiffer||Female||gender
+Dedee Pfeiffer||January 1, 1964||date_of_birth
+Delia||Female||gender
+Delia||Sandy||fiancé
+Denise Richards||Female||gender
+Denise Richards||February 17, 1971||date_of_birth
+Dermot Mulroney||Male||gender
+Dermot Mulroney||October 31, 1963||date_of_birth
+Devon||Male||gender
+Dina||Dina Tribbiani||name
+Dina||December 19th, 1980||date_of_birth
+Dina||Nonnie||maternal_grandmother
+Dina||Nonna||paternal_grandmother
+Dina||Gloria Tribbiani||mother
+Dina||Joey Tribbiani Sr.||father
+Dina||Gina Tribbiani||sister
+Dina||Joey Tribbiani Jr.||brother
+Dina||Mary-Therese Tribbiani||sister
+Dina||Mary-Angela||sister
+Dina||Cookie||sister
+Dina||Veronica||sister
+Dina Meyer||Female||gender
+Dina Meyer||December 22, 1968||date_of_birth
+Dr. Leonard Green||Leonard Green||name
+Dr. Leonard Green||Male||gender
+Dr. Leonard Green||Doctor||title
+Dr. Leonard Green||Mr. Green||father
+Dr. Leonard Green||Ida Green||mother
+Dr. Leonard Green||Rachel Green||daughter
+Dr. Leonard Green||Jill Green||daughter
+Dr. Leonard Green||Amy Green||daughter
+Dr. Leonard Green||Emma Geller-Green||granddaughter
+Dr. Leonard Green||Ben Geller||step-grandson
+Dr. Leonard Green||Ross Geller||son-in-law
+Dr. Leonard Green||Sandra Green||ex-wife
+Dr. Ledbetter||Donald Ledbetter||name
+Dr. Ledbetter||Male||gender
+Dr. Ledbetter||Manager||title
+Dr. Ledbetter||the museum||employer
+Doug||Male||gender
+Doug||Chandler's boss||title
+Doug||Kara||ex-wife
+Drake Ramoray||Dr. Drake Ramoray||name
+Drake Ramoray||Male||gender
+Drake Ramoray||1968||date_of_birth
+Drake Ramoray||Neurosurgeon||title
+Drake Ramoray||Stryker Ramoray||twin_brother
+Drake Ramoray||Francesca||long_lost_mother
+Drake Ramoray||Amber||half-sister
+Drake Ramoray||Ramone||half_brother
+Drake Ramoray||Hans Ramoray||evil_twin_brother
+Dr. Franzblau||Male||gender
+Dr. Franzblau||Doctor||title
+Dr. Gettleman||Male||gender
+Dr. Gettleman||Doctor||title
+Dr. Gettleman's daughter||Female||gender
+Dr. Gettleman's daughter||Dr. Gettleman||father
+Dr. Harad||Male||gender
+Dr. Harad||Doctor||title
+Dr. Long||Female||gender
+Dr. Long||Doctor||title
+Dr. Schiff||Male||gender
+Dr. Schiff||Doctor||title
+Dr. Wiener||Pediatrician||title
+Dr. Wiener||Pediatrician||employer
+Dr. Oberman||FemaleMale||gender
+Dr. Oberman||Ob/Gyn||title
+Alice Knight-Buffay||Female||gender
+Alice Knight-Buffay||Home Economics Teacher||title
+Alice Knight-Buffay||BiologicalFrank Buffay Jr. Jr.||son
+Alice Knight-Buffay||Chandler Buffay||daughter
+Alice Knight-Buffay||Leslie Buffay||daughter
+Alice Knight-Buffay||Frank Buffay Jr.||husband
+Alice Knight-Buffay||Mrs. Buffay||mother-in-law
+Alice Knight-Buffay||Frank Buffay Sr.||father-in-law
+Alice Knight-Buffay||Phoebe Buffay||half-sister-in-law
+Alice Knight-Buffay||Mike Hannigan||half-brother-in-law
+Alice Knight-Buffay||Ursula Buffay||half-sister-in-law
+Drea de Matteo||Female||gender
+Drea de Matteo||January 19, 1972||date_of_birth
+Duncan Sullivan||Male||gender
+Duncan Sullivan||Ice dancer||title
+Duncan Sullivan||Deborah Sullivan||wife
+Duncan Sullivan||Frances||adoptive_ex-grandmother-in-law
+Duncan Sullivan||Phoebe Buffay||ex-wife
+Duncan Sullivan||Frank Buffay||ex-father-in-law
+Duncan Sullivan||Lily Buffay||adoptive_ex-mother-in-law
+Duncan Sullivan||Phoebe Abbott||biological_ex-mother-in-law
+Duncan Sullivan||Ursula Buffay||ex-sister-in-law
+Duncan Sullivan||Frank Buffay Jr.||ex-brother-in-law
+Duncan Sullivan||Mrs. Buffay||ex-stepmother-in-law
+Duncan Sullivan||Silvia||ex-aunt-in-law
+Duncan Sullivan||Mary||ex-aunt-in-law
+Earl||Male||gender
+Earl||Office Manager||title
+Eddie Menuek||Male||gender
+Eddie Menuek||Buddy||former_pet
+Eddie Menuek||Chandler||technical_pet
+Eddie Menuek||Unnamed fish||former_pet
+Eddie Menuek||Tilly||ex-girlfriend
+Eddie Cahill||Male||gender
+Eddie Cahill||15/01/78||date_of_birth
+Eleonora De Angelis||Female||gender
+Eleonora De Angelis||April 23, 1967||date_of_birth
+Elizabeth Stevens||Cutie McPretty||nicknames
+Elizabeth Stevens||Lizzie||nicknames
+Elizabeth Stevens||Female||gender
+Elizabeth Stevens||1980||date_of_birth
+Elizabeth Stevens||Student||title
+Elizabeth Stevens||Paul Stevens||father
+Elizabeth Stevens||Mrs. Stevens||mother
+Elizabeth Stevens||† Mr. Stevens Sr.||paternal_grandfather
+Elizabeth Stevens||† Mrs. Stevens Sr.||paternal_grandmother
+Elizabeth Stevens||† Ms. Stevens||paternal_aunt
+Elizabeth Stevens||Ross Geller||ex-boyfriend
+Elizabeth Hornswoggle||Female||gender
+Elle Macpherson||Female||gender
+Elle Macpherson||March 29, 1964||date_of_birth
+Ellen Gittelsohn||Female||gender
+Ellen Gittelsohn||April 12, 1945||date_of_birth
+Ellen Plummer||Female||gender
+Ellen Pompeo||Female||gender
+Ellen Pompeo||November 10, 1969||date_of_birth
+Elliott Gould||Male||gender
+Elliott Gould||August 29, 1938||date_of_birth
+Emilio||Male||gender
+Emilio||Head chef||title
+Emilio||Tony||son
+Emilio||Carlos||son
+Emilio||Marie||daughter
+Emily Waltham||Female||gender
+Emily Waltham||Unknown||title
+Emily Waltham||Stephen Waltham||father
+Emily Waltham||Mrs. Waltham||mother
+Emily Waltham||Andrea Waltham||stepmother
+Emily Waltham||Mr. Waltham||paternal_uncle
+Emily Waltham||Ross Geller||ex-husband
+Emily Waltham||Ben Geller||ex-stepson
+Emily Waltham||Jack Geller||ex-father-in-law
+Emily Waltham||Judy Geller||ex-mother-in-law
+Emily Waltham||Monica Geller||ex-sister-in-law
+Emily Waltham||Unnamed husband  Ross Geller||ex-husband
+Emily Waltham||Colin||ex-boyfriend
+Emily Waltham||Liam||ex-boyfriend
+Emily Waltham's mother||Female||gender
+Emily Waltham's mother||Stephen Waltham||ex-husband_or_widower
+Emily Waltham's mother||Emily Waltham||daughter
+Emily Waltham's mother||Ross Geller||ex-son-in-law
+Emily Waltham's mother||Ben Geller||ex-step-grandson
+Emily's Cousin||Unknown||name
+Emily's Cousin||Male||gender
+Emily's Cousin||Mr. Waltham||father
+Emily's Cousin||Stephen Waltham||paternal_uncle
+Emily's Cousin||Emily Waltham||paternal_cousin
+Emily's Cousin||Mrs. Waltham||first_or_ex-paternal_aunt_by_marriage
+Emily's Cousin||Andrea Waltham||paternal_aunt_by_marriage
+Emily's Cousin||Ross Geller||ex-cousin-in-law
+Emily Waltham's second husband||Unknown||name
+Emily Waltham's second husband||Male||gender
+Emily Waltham's second husband||Unknown||title
+Emily Waltham's second husband||Emily Waltham||wife
+Emily Waltham's second husband||Stephen Waltham||father-in-law
+Emily Waltham's second husband||Mrs. Waltham||mother-in-law
+Emily Waltham's second husband||Andrea Waltham||stepmother-in-law
+Emily Waltham's second husband||Mr. Waltham||uncle-in-law
+Emma Geller-Green||Sweetie||nicknames
+Emma Geller-Green||My Girl||nicknames
+Emma Geller-Green||Ella||nicknames
+Emma Geller-Green||Emmitt||nicknames
+Emma Geller-Green||Female||gender
+Emma Geller-Green||April 4, 2002||date_of_birth
+Emma Geller-Green||Ross Geller||father
+Emma Geller-Green||Rachel Green||mother
+Emma Geller-Green||Ben Geller||paternal_half-brother
+Emma Geller-Green||Jack Geller||paternal_grandfather
+Emma Geller-Green||Judy Geller||paternal_grandmother
+Emma Geller-Green||Leonard Green||maternal_grandfather
+Emma Geller-Green||Sandra Green||maternal_grandmother
+Emma Geller-Green||Monica Geller||paternal_aunt
+Emma Geller-Green||Jill Green||maternal_aunt
+Emma Geller-Green||Amy Green||maternal_aunt
+Emma Geller-Green||Cassie Geller||paternal_cousin_once_removed
+Emma Geller-Green||Ida Green||maternal_great-grandmother
+Emma Geller-Green||Althea||paternal_great-grandmother
+Emma Geller-Green||Aunt Iris||paternal_grandaunt
+Emma Geller-Green||Aunt Marilyn||paternal_grandaunt
+Emma Geller-Green||Jack Bing||paternal_cousin
+Emma Geller-Green||Erica Bing||paternal_cousin
+Emma Geller-Green||Chandler Bing||paternal_uncle
+Aaron Goralnik||Aaron Litman Goralnik||name
+Aaron Goralnik||Male||gender
+Aaron Goralnik||May 2002||date_of_birth
+Aaron Goralnik||Janice Litman Goralnik||mother
+Aaron Goralnik||Sid Goralnik||father
+Alicia Sky Varinaitis||Female||gender
+Eric||Male||gender
+Eric||Second Grade Teacher||title
+Eric||Ursula Buffay||ex-fiancée
+Eric||Phoebe Buffay||ex-girlfriend
+Alison La Placa||Female||gender
+Alison La Placa||December 15, 1959||date_of_birth
+Eric||Fashion Photographer||title
+Eric Garrett||Male||gender
+Eric Garrett||Alex Garrett||ex-wife
+Erica||Female||gender
+Erica||Unemployed||title
+Erica||Erica Geller-Bing||biological_daughter
+Erica||Jack Geller-Bing||biological_son
+Erica Bing||Female||gender
+Erica Bing||6 May 2004||date_of_birth
+Erica Bing||Erica||mother
+Erica Bing||Jack Bing||older_twin_brother
+Erica Bing||Monica Geller-Bing||mother
+Erica Bing||Chandler Bing||father
+Erica Bing||Jack Geller||grandfather
+Erica Bing||Judy Geller||grandmother
+Erica Bing||Charles Bing||grandfather
+Erica Bing||Nora Tyler Bing||grandmother
+Erica Bing||Ross Geller||uncle
+Erica Bing||Ben Geller||cousin
+Erica Bing||Emma Geller-Green||cousin
+Erica Bing||Rachel Green||aunt_by_marriage
+Erika Ford||Female||gender
+Erin||Female||gender
+Erin||Joey Tribbiani||ex-boyfriend
+Estelle Leonard||Female||gender
+Estelle Leonard||Acting agent||title
+Ethan||Aurora||girlfriend
+Eva Amurri||Female||gender
+Eva Amurri||March 15, 1985||date_of_birth
+Fake Monica||Female||gender
+Fake Monica||-||title
+Felicity||Female||gender
+Felicity||Joey Tribbiani||ex-boyfriend
+Frances||Female||gender
+Frances||Cabdriver||title
+Frances||BiologicalLily Buffay||daughter
+Frances||Frank Buffay Sr.||ex-son-in-law
+Frances||Duncan||ex-grandson-in-law
+Frances||Mike Hannigan||grandson-in-law
+Frances||Phoebe Buffay||adoptive_granddaughter
+Frances||Ursula Buffay||adoptive_granddaughter
+Frank Buffay Sr.||Frank Buffay||name
+Frank Buffay Sr.||Male||gender
+Frank Buffay Sr.||Pharmacist||title
+Frank Buffay Sr.||Phoebe Buffay||daughter
+Frank Buffay Sr.||Ursula Buffay||daughter
+Frank Buffay Sr.||Frank Buffay Jr.||son
+Frank Buffay Sr.||Frank Buffay Jr. Jr.||grandson
+Frank Buffay Sr.||Chandler Buffay||granddaughter
+Frank Buffay Sr.||Leslie Buffay||granddaughter
+Frank Buffay Sr.||Mike Hannigan||son-in-law
+Frank Buffay Sr.||Duncan Sullivan||ex-son-in-law
+Frank Buffay Sr.||Frances||ex-mother-in-law;_deceased
+Frank Buffay Sr.||Alice Knight Buffay||daughter-in-law
+Frank Buffay Sr.||Lily Buffay||ex-wife
+Frank Buffay Sr.||† Mrs. Buffay||second_wife,_abandoned
+Frank Buffay Sr.||Phoebe Abbott||ex-girlfriend
+Frank Buffay Jr.||Male||gender
+Frank Buffay Jr.||October 25, 1978||date_of_birth
+Frank Buffay Jr.||Frank Buffay||father
+Frank Buffay Jr.||Mrs. Buffay||mother
+Frank Buffay Jr.||Phoebe Buffay||paternal_half-sister
+Frank Buffay Jr.||Ursula Buffay||paternal_half-sister
+Frank Buffay Jr.||Mike Hannigan||half-brother-in-law
+Frank Buffay Jr.||Alice Knight||wife
+Frank Buffay Jr.||Frank Buffay Jr. Jr.||son
+Frank Buffay Jr.||Chandler Buffay||daughter
+Frank Buffay Jr.||Leslie Buffay||daughter
+Frank Buffay Jr. Jr.||Frank Buffay||name
+Frank Buffay Jr. Jr.||Male||gender
+Frank Buffay Jr. Jr.||April 30, 1998||date_of_birth
+Frank Buffay Jr. Jr.||Frank Buffay Jr.||father
+Frank Buffay Jr. Jr.||Alice Knight Buffay||mother
+Frank Buffay Jr. Jr.||Chandler Buffay||sister
+Frank Buffay Jr. Jr.||Leslie Buffay||sister
+Frank Buffay Jr. Jr.||Phoebe Buffay||paternal_half-aunt
+Frank Buffay Jr. Jr.||Phoebe Buffay||surrogate_mother
+Frank Buffay Jr. Jr.||Ursula Buffay||paternal_half-aunt
+Frank Buffay Jr. Jr.||Frank Buffay Sr.||paternalgrandfather
+Frank Buffay Jr. Jr.||Mrs. Buffay||paternalgrandmother
+Franny||Female||gender
+Franny||Chef||title
+Franny||Paul the Wine Guy||one-night_stand
+Fred Willard||Male||gender
+Fred Willard||September 18, 1939||date_of_birth
+Freddie Prinze Jr.||Male||gender
+Freddie Prinze Jr.||March 8, 1976||date_of_birth
+Allesandro||Male||gender
+Allesandro||Owner of Allesandro's||title
+Allisyn Ashley Arm||Female||gender
+Allisyn Ashley Arm||April 25, 1996||date_of_birth
+Fun Bobby||Ridiculously Dull Bobby||nicknames
+Fun Bobby||Male||gender
+Fun Bobby||Monica Geller||ex-girlfriend
+Fun Bobby's grandfather||Male||gender
+Fun Bobby's grandfather||Fun Bobby||grandson
+Gabrielle Union||Female||gender
+Gabrielle Union||October 29, 1972||date_of_birth
+Gail Mancuso||Female||gender
+Mike Ganderson||Mike Ganderson (AKA) Tj Mathias||name
+Mike Ganderson||Male||gender
+Gary||Male||gender
+Gary||Police officer||title
+Gary||Phoebe Buffay||ex-girlfriend
+Gary Halvorson||Male||gender
+Gavin Mitchell||Male||gender
+Gavin Mitchell||Ralph Lauren employee||title
+Gavin Mitchell||Ex-Rodeo clown||title
+Gavin Mitchell||Rachel Green||kissed;_possible_crush
+Gene Lester||Male||gender
+Gene Lester||Database specialist||title
+Gene Lester||Database specialist||employer
+George Clooney||Male||gender
+George Clooney||May 6, 1961||date_of_birth
+George Newbern||Male||gender
+George Newbern||December 30, 1964||date_of_birth
+Althea's husband||Male||gender
+Althea's husband||Althea||wife
+Althea's husband||Judy Geller||daughter
+Althea's husband||Lillian||daughter
+Althea's husband||Phylis||daughter
+Althea's husband||Jack Geller||son-in-law
+Althea's husband||Ross Geller||grandson
+Althea's husband||Monica Geller||granddaughter
+Althea's husband||Ben Geller||great-grandson
+Althea's husband||Emma Geller-Green||great-granddaughter
+Althea's husband||Jack Bing||adoptive_great-grandson
+Althea's husband||Erica Bing||adoptive_great-granddaughter
+George Willick||Male||gender
+George Willick||Carol Willick||daughter
+George Willick||Ben Geller||grandson
+George Willick||Adelaide Willick||wife
+George Willick||Susan Bunch||daughter-in-law
+George Willick||Ross Geller||ex-son-in-law
+George Willick||Minnie||mother_or_mother-in-law
+Gigi McCreery||Female||gender
+Gina Tribbiani||Female||gender
+Gina Tribbiani||1967||date_of_birth
+Gina Tribbiani||Hair stylist||title
+Gina Tribbiani||Joey Tribbiani Sr.||father
+Gina Tribbiani||Gloria||mother
+Gina Tribbiani||Michael Tribbiani||son
+Gina Tribbiani||Jimmy Costa||husband
+Gina Tribbiani||Joey Tribbiani||brother
+Gina Tribbiani||Nonna||paternal_grandmother
+Gina Tribbiani||Nonnie||maternal_grandmother
+Ginger||Female||gender
+Giovanni Ribisi||Male||gender
+Giovanni Ribisi||December 17, 1974||date_of_birth
+Glenda||Female||gender
+Gloria Tribbiani||Female||gender
+Gloria Tribbiani||Nonnie||mother
+Gloria Tribbiani||Joey Tribbiani Sr.||husband
+Gloria Tribbiani||Joey Tribbiani||son
+Gloria Tribbiani||Gina Tribbiani||daughter
+Gloria Tribbiani||Tina Tribbiani||daughter
+Gloria Tribbiani||Dina Tribbiani||daughter
+Gloria Tribbiani||Mary-Angela Tribbiani||daughter
+Gloria Tribbiani||Mary-Therese Tribbiani||daughter
+Gloria Tribbiani||Veronica Tribbiani||daughter
+Gloria Tribbiani||Cookie Tribbiani Tribbiani||daughter
+Greg Kinnear||Male||gender
+Greg Kinnear||June 17, 1963||date_of_birth
+Greg Malins||Male||gender
+Greg Malins||December 5, 1967||date_of_birth
+Gunther||Male||gender
+Gunther||Manager and barista||title
+Gunther||Central Perk||employer
+Gunther||Bryce on All My Children||title
+Gunther||Jasmine||roommate
+Guru Saj||Saj||name
+Guru Saj||Male||gender
+Guru Saj||Guru||title
+Guy on the Plane||Male||gender
+Hank Azaria||Male||gender
+Hank Azaria||April 25, 1964||date_of_birth
+Hayley||Female||gender
+Hayley||Joey Tribbiani||ex-boyfriend
+Amanda||Female||gender
+Helen Baxendale||Female||gender
+Helen Baxendale||7 June 1970||date_of_birth
+Hillary||Female||gender
+Hillary||Chef||title
+Howard||Male||gender
+Huggsy||Male||gender
+Huggsy||Bedtime Penguin Pal||title
+Huggsy||Joey||owner
+Huggsy||Emma||for_a_short_while_owner
+Hugh Laurie||Male||gender
+Hugh Laurie||June 11, 1959||date_of_birth
+Amanda Buffamonteezi||Female||gender
+Ida Greene||Female||gender
+Ida Greene||Leonard Green||son
+Ida Greene||Sandra Green||ex-daughter-in-law
+Ida Greene||Rachel Green||granddaughter
+Ida Greene||Jill Green||granddaughter
+Ida Greene||Amy Green||granddaughter
+Ida Greene||Emma Geller-Green||great-granddaughter
+Ida Greene||Ross Geller||grandson-in-law
+Ida Greene||Ben Geller||step-great-grandson
+Ira Ungerleider||Male||gender
+Iris Bahr||Female||gender
+Isaac||Works||title
+Isaac||the Xerox copy-store||employer
+Isaac||Jasmine||sister
+Isabella Rossellini||Female||gender
+Isabella Rossellini||18 June 1952||date_of_birth
+Isabella Rossellini||Actress||title
+Jack Geller||Jack Geller - Dream Hunk||nicknames
+Jack Geller||Male||gender
+Jack Geller||US Veteran||title
+Jack Geller||Liddy Geller||sister
+Jack Geller||Sylvia Geller||sister
+Jack Geller||Iris||sister
+Jack Geller||Ross Geller||son
+Jack Geller||Monica Geller||daughter
+Jack Geller||Ben Geller||grandson
+Jack Geller||Emma Geller-Green||granddaughter
+Jack Geller||Cassie Geller||niece
+Jack Geller||Jack Geller-Bing||grandson
+Jack Geller||Erica Geller-Bing||granddaughter
+Jack Geller||Judy Geller||wife
+Jack Geller||unnamed father-in-law  Althea||mother-in-law
+Jack Geller||Lillian||sister-in-law
+Jack Geller||Phylis||sister-in-law
+Jack Geller||Freddie||brother-in-law
+Jack Geller||Carol Willick||ex-daughter-in-law
+Jack Geller||Emily Waltham||ex-daughter-in-law
+Jack Geller||Rachel Green||daughter-in-law
+Jack Geller||Chandler Bing||son-in-law
+Jack Bing||Male||gender
+Jack Bing||6 May 2004||date_of_birth
+Jack Bing||Erica||mother
+Jack Bing||Erica Bing||younger_twin_sister
+Jack Bing||Monica Geller-Bing||mother
+Jack Bing||Chandler Bing||father
+Jack Bing||Jack Geller||grandfather
+Jack Bing||Judy Geller||grandmother
+Jack Bing||Charles Bing||grandfather
+Jack Bing||Nora Tyler Bing||grandmother
+Jack Bing||Ross Geller||uncle
+Jack Bing||Ben Geller||cousin
+Jack Bing||Emma Geller-Green||cousin
+Jack Bing||Rachel Green||aunt_by_marriage
+Amy Green||Amy Greene||name
+Amy Green||Female||gender
+Amy Green||November 25, 1972||date_of_birth
+Amy Green||Decorator (for her dad's office)||title
+Amy Green||Decorator||employer
+Amy Green||Baby Stylist||title
+Amy Green||Dr. Leonard Green||father
+Amy Green||Sandra Green||mother
+Amy Green||Ida Green||paternal_grandmother
+Amy Green||Rachel Green||older_sister
+Amy Green||Jill Green||sister
+Amy Green||Ross Geller||brother-in-law
+Amy Green||Emma Geller-Green||niece
+Amy Green||Ben Geller||step-nephew
+Jade||Female||gender
+Jade||Model||title
+Jade||Bob||ex-boyfriend
+Jake||Male||gender
+James LeGros||Male||gender
+James LeGros||April 27, 1962||date_of_birth
+James Michael Tyler||Male||gender
+James Michael Tyler||May 28, 1962||date_of_birth
+Jana Marie Hupp||Female||gender
+Jane Sibbett||Female||gender
+Jane Sibbett||November 28, 1962||date_of_birth
+Janice Goralnik||Janice Litman Goralnik||name
+Janice Goralnik||Just Janice||nicknames
+Janice Goralnik||Janice Hosenstein||nicknames
+Janice Goralnik||Janice Litman||nicknames
+Janice Goralnik||Female||gender
+Janice Goralnik||December 12, 1967||date_of_birth
+Janice Goralnik||Gary Litman||ex-husband
+Janice Goralnik||Sid Goralnik||husband
+Janice Goralnik||Aaron Goralnik||son_with_sid
+Janice Goralnik||Chandler Bing||ex-boyfriend,_1994,_1996,_1998
+Janice Goralnik||Ross Geller||ex-boyfriend,_1999
+Janine Lecroix||Female||gender
+Janine Lecroix||Dancer||title
+Janine Lecroix||Joey Tribbiani||ex-boyfriend
+Jarvis Oberblau||Male||gender
+Jarvis Oberblau||Nancy Oberblau||wife
+Jasmine||Female||gender
+Jasmine||Waitress||title
+Jasmine||Isaac||brother
+Jasmine||Mozzerella||pet
+Jason||Male||gender
+Jason||Kindergarten Teacher||title
+Jason||Phoebe Buffay||ex-girlfriend
+Jason Alexander||Male||gender
+Jason Alexander||September 23, 1959  Newmark, New Jersey, U.S.||date_of_birth
+Jason Alexander||Actor, comedian, voice actor, director||title
+Adam Chase||Male||gender
+Jean-Claude Van Damme||Male||gender
+Jean-Claude Van Damme||October 18, 1960||date_of_birth
+Jean-Claude Van Damme||Actor||title
+Jean-Claude Van Damme||Martial Artist||title
+Jeff Astrof||Male||gender
+Jeff Greenstein||Male||gender
+Amy Toomin||Female||gender
+Jeff Strauss||Male||gender
+Jeffrey||Male||gender
+Jeffrey||Javu's||employer
+Jen||Female||gender
+Jennifer Aniston||Female||gender
+Jennifer Aniston||February 11, 1969||date_of_birth
+Jennifer Coolidge||Female||gender
+Jennifer Coolidge||August 28, 1961||date_of_birth
+Jennifer Grant||Female||gender
+Jennifer Grant||February 26, 1966||date_of_birth
+Jennifer Grey||Female||gender
+Jennifer Grey||March 26, 1960||date_of_birth
+Jessica Ashley||Female||gender
+Jessica Hecht||Female||gender
+Jessica Hecht||June 28, 1965||date_of_birth
+Jill Green||Female||gender
+Jill Green||March 22, 1976||date_of_birth
+Jill Green||Unknown||title
+Jill Green||Dr. Leonard Green||father
+Jill Green||Sandra Green||mother
+Jill Green||Ida Green||paternal_grandmother
+Jill Green||Rachel Green||older_sister
+Jill Green||Amy Green||sister
+Jill Green||Ross Geller||brother-in-law
+Jill Green||Emma Geller-Green||niece
+Jill Green||Ben Geller||step-nephew
+Jill Green||Ross Geller||ex-boyfriend
+Jill Goodacre||Female||gender
+Jill Goodacre||March 29, 1965||date_of_birth
+Jill Goodacre||Victoria's Secret Model||title
+Jim||Male||gender
+Jim||1967||date_of_birth
+Jim||Phoebe Buffay||date
+Jim Pirri||Male||gender
+Andrea Anders||Female||gender
+Andrea Anders||May 10, 1975||date_of_birth
+Jimmy Costa||Male||gender
+Jimmy Costa||unemployed||title
+Jimmy Costa||Gina Tribbiani||wife
+Jimmy Costa||Michael Tribbiani||son
+Jimmy Costa||Veronica||half-sister
+Jimmy Costa||Joey Tribbiani||brother-in-law
+Joan Tedeschi||assistant professor||title
+Joanna||Female||gender
+Joanna||Buyer||title
+Joanna||Bloomingdale's||employer
+Joanna||Chandler Bing||ex-boyfriend
+Joanna Gleason||Female||gender
+Joanna Gleason||June 2, 1950||date_of_birth
+Joe Regalbuto||Male||gender
+Joe Regalbuto||August 24, 1949||date_of_birth
+Joel Beeson||Male||gender
+Joey Tribbiani||Joseph Francis Tribbiani Jr.||name
+Joey Tribbiani||Chandler||nicknames
+Joey Tribbiani||J-Man, J-Bird||nicknames
+Joey Tribbiani||Jojo||nicknames
+Joey Tribbiani||Flameboy||nicknames
+Joey Tribbiani||Baby||nicknames
+Joey Tribbiani||Drake||nicknames
+Joey Tribbiani||Twinkletoes||nicknames
+Joey Tribbiani||Big Daddy||nicknames
+Joey Tribbiani||Chick||nicknames
+Joey Tribbiani||Dragon||nicknames
+Joey Tribbiani||Big Guy||nicknames
+Joey Tribbiani||Mario||nicknames
+Joey Tribbiani||Kevin||nicknames
+Joey Tribbiani||VD Boy (by||nicknames
+Joey Tribbiani||Holden McGroin||nicknames
+Joey Tribbiani||Chandler Bing||nicknames
+Joey Tribbiani||Joseph Stalin||nicknames
+Joey Tribbiani||Hans Ramoray,||nicknames
+Joey Tribbiani||Baby Kangaroo Tribbiani||nicknames
+Joey Tribbiani||Male||gender
+Joey Tribbiani||April 9, 1968||date_of_birth
+Joey Tribbiani||Actor||title
+Joey Tribbiani||Minister||title
+Joey Tribbiani||Christmas Elf||title
+Joey Tribbiani||Cologne sampler||title
+Joey Tribbiani||Entry-Level Processor||title
+Joey Tribbiani||Christmas tree salesman||title
+Joey Tribbiani||Museum Tour Guide||title
+Joey Tribbiani||Waiter||title
+Joey Tribbiani||Allesandro's||employer
+Joey Tribbiani||Gladiator||title
+Joey Tribbiani||Caesars Palace||employer
+Joey Tribbiani||Central Perk Waiter||title
+Joey Tribbiani||Joey Tribbiani Sr.||father
+Joey Tribbiani||Gloria Tribbiani||mother
+Joey Tribbiani||Nonnie||grandmother
+Joey Tribbiani||Nonna||grandmother
+Joey Tribbiani||Gina Tribbiani||sister
+Joey Tribbiani||Tina Tribbiani||sister
+Joey Tribbiani||Dina Tribbiani||sister
+Joey Tribbiani||Mary-Angela Tribbiani||sister
+Joey Tribbiani||Mary-Therese Tribbiani||sister
+Joey Tribbiani||Veronica Tribbiani||sister
+Joey Tribbiani||Cookie Tribbiani||sister
+Joey Tribbiani||Jimmy Costa||brother-in-law
+Joey Tribbiani||Michael Tribbiani||nephew
+Joey Tribbiani||Ashley Tribbiani||imaginary_daughter
+Joey Tribbiani||Brittany Tribbiani||imaginary_daughter
+Joey Tribbiani||Alex Garrett||girlfriend_in_joey
+Joey Tribbiani||Rachel Green||ex-girlfriend
+Joey Tribbiani||Melanie||ex-girlfriend
+Joey Tribbiani||Kathy||ex-girlfriend
+Joey Tribbiani||Numerous ex-girlfriends  Karen||imaginary_wife
+Andrea Waltham||Female||gender
+Andrea Waltham||Stephen Waltham||husband
+Andrea Waltham||Emily Waltham||stepdaughter
+Andrea Waltham||Ross Geller||ex-stepson-in-law
+Andrea Waltham||unnamed stepson-in-lawMr. Waltham||brother-in-law
+Joey Tribbiani Sr.||Male||gender
+Joey Tribbiani Sr.||Nonna||mother
+Joey Tribbiani Sr.||Nonnie||mother-in-law
+Joey Tribbiani Sr.||Gloria Tribbiani||wife
+Joey Tribbiani Sr.||Joey Tribbiani||son
+Joey Tribbiani Sr.||Gina||daughter
+Joey Tribbiani Sr.||Tina||daughter
+Joey Tribbiani Sr.||Dina||daughter
+Joey Tribbiani Sr.||Mary-Angela||daughter
+Joey Tribbiani Sr.||Mary-Therese||daughter
+Joey Tribbiani Sr.||Veronica||daughter
+Joey Tribbiani Sr.||Cookie||daughter
+Joey Tribbiani Sr.||Ronni Rapalono||mistress
+Andrew Reich||Male||gender
+Adam Goldberg||10/25/70||date_of_birth
+Andrew Tsao||Male||gender
+John Allen Nelson||Male||gender
+John Allen Nelson||28-08-1959||date_of_birth
+John Bennett Perry||Male||gender
+John Bennett Perry||January 4, 1941||date_of_birth
+Jon Favreau||Male||gender
+Jon Favreau||October 19, 1966||date_of_birth
+Angela Delveccio||Female||gender
+Angela Delveccio||Joey Tribbiani||ex-boyfriend
+Angela Delveccio||Bob||boyfriend
+Jon Lovitz||Male||gender
+Jon Lovitz||July 21, 1957||date_of_birth
+Jonathan Silverman||Male||gender
+Jonathan Silverman||August 5, 1966||date_of_birth
+Josh||Male||gender
+Joshua||Joshua Burgin||name
+Joshua||Male||gender
+Joshua||Mr. Burgin||father
+Joshua||Mrs. Burgin||mother
+Joshua||Rachel Green||ex-girlfriend
+Joshua Burgin's ex-wife||Female||gender
+Joshua Burgin's ex-wife||Joshua Burgin||ex-husband
+Joshua Burgin's ex-wife||Mr. Burgin||ex-father-in-law
+Joshua Burgin's ex-wife||Mrs. Burgin||ex-mother-in-law
+Joshua Burgin's nephew||Male||gender
+Joshua Burgin's nephew||Mr. Burgin||grandfather
+Joshua Burgin's nephew||Mrs. Burgin||grandmother
+Joshua Burgin's nephew||Joshua Burgin||uncle
+Joshua Preston||Male||gender
+Judy Geller||Female||gender
+Judy Geller||Althea||mother
+Judy Geller||Lillian||sister
+Judy Geller||Phylis||sister
+Judy Geller||Ross Geller||son
+Judy Geller||Monica Geller||daughter
+Judy Geller||Ben Geller||grandson
+Judy Geller||Emma Geller-Green||granddaughter
+Judy Geller||Jack Geller-Bing||grandson
+Judy Geller||Erica Geller-Bing||granddaughter
+Judy Geller||Jack Geller||husband
+Judy Geller||Freddie||brother-in-law
+Judy Geller||Carol Willick||ex-daughter-in-law
+Judy Geller||Emily Waltham||ex-daughter-in-law
+Judy Geller||Rachel Green||daughter-in-law
+Judy Geller||Chandler Bing||son-in-law
+Judy Geller||Cassie Geller||niece
+Judy Geller||Aunt Liddy||sister-in-law
+Judy Geller||Uncle Freddie||brother-in-law
+Angela Featherstone||Female||gender
+Angela Featherstone||April 3, 1965||date_of_birth
+Julia Roberts||October 28, 1967||date_of_birth
+Julie||Female||gender
+Julie||Paleontologist||title
+Julie||Ross Geller||ex-boyfriend
+Julie||Russ||boyfriend
+Julie Coreger||Female||gender
+Julie Coreger||Jaime Coreger||newborn
+Julie Coreger||Marc Coreger||husband
+Julie Graff||Female||gender
+Julie Graff||~1968||date_of_birth
+Julio||Male||gender
+Julio||Works||title
+Julio||Moondance Diner||employer
+Julio||Monica Geller||ex-girlfriend
+June Gable||Female||gender
+June Gable||June 5, 1945||date_of_birth
+Kara||Female||gender
+Kara||Doug||ex-husband
+Kash||Kash Ford||name
+Kash||Male||gender
+Kash||Actor||title
+Kash||Rachel Green||one_date
+Kat Sawyer-Young||Female||gender
+Kat Sawyer-Young||March 14, 1952||date_of_birth
+Kate Miller||Female||gender
+Kate Miller||Actress||title
+Kathleen Turner||Female||gender
+Kathleen Turner||June 19, 1954||date_of_birth
+Kathy||Female||gender
+Kathy||Actress||title
+Kathy||Part-time medical researcher||title
+Kathy||Chandler Bing||ex-boyfriend
+Kathy||Nick||one-night_stand
+Kathy||Joey Tribbiani||ex-boyfriend
+Katie||Female||gender
+Anita Altman||Anita Altman (married name)||name
+Anita Altman||Female||gender
+Anita Altman||Mr. Altman||husband
+Katie||Saleswoman||title
+Kevin S. Bright||Male||gender
+Kevin S. Bright||1955||date_of_birth
+Anita Barone||Female||gender
+Anita Barone||September 25, 1964||date_of_birth
+Kiki||Female||gender
+Kiki||1971||date_of_birth
+Kim||Female||gender
+Kim||Fashion Designer, Ralph Lauren||title
+Kim Gillingham||Female||gender
+Kip||Male||gender
+Kip||Chandler Bing||former_roommate
+Kip||Monica Geller||ex-girlfriend
+Krista||Female||gender
+Krista||Danny||brother
+Kristen Leigh||Female||gender
+Kristin Dattilo||Female||gender
+Kristin Dattilo||1970||date_of_birth
+Kyle||Male||gender
+Kyle||Whitney||ex-wife
+Larry||Health Inspector||title
+Anna Faris||Female||gender
+Anna Faris||November 29, 1976||date_of_birth
+Larry Hankin||Male||gender
+Larry Hankin||8/31/1940||date_of_birth
+Laura||Female||gender
+Laura||Social Worker||title
+Laura||Joey Tribbiani||one-night_stand
+Lauren||Female||gender
+Lauren||understudy||title
+Lauren Tom||Female||gender
+Lauren Tom||August 4, 1961||date_of_birth
+Annabel||Anabell||name
+Annabel||Female||gender
+Annabel||Salesgirl||title
+Annabel||The Hombre Man||one_date
+Annabel||Joey Tribbiani||one_date
+Leonard Hayes||Male||gender
+Leonard Hayes||Actor/Director||title
+Leslie||Jingle Whore||nicknames
+Leslie||Female||gender
+Leslie||Singer/Songwriter||title
+Leslie Buffay||Female||gender
+Leslie Buffay||April 30, 1998||date_of_birth
+Leslie Buffay||Frank Buffay Jr.||father
+Leslie Buffay||Alice Knight Buffay||mother
+Leslie Buffay||Frank Buffay Jr. Jr.||brother
+Leslie Buffay||Chandler Buffay||sister
+Leslie Buffay||Frank Buffay Sr.||paternal_grandfather
+Leslie Buffay||Mrs. Buffay||paternal_grandmother
+Leslie Buffay||Phoebe Buffay||paternal_half-aunt
+Leslie Buffay||Phoebe Buffay||surrogate_mother
+Leslie Buffay||Ursula Buffay||paternal_half-aunt
+Liam||Male||gender
+Liam||Emily Waltham||ex-girlfriend
+Lily Buffay||Female||gender
+Lily Buffay||Drug dealer||title
+Lily Buffay||Frances||mother
+Lily Buffay||Phoebe Buffay||daughter
+Lily Buffay||Ursula Buffay||daughter
+Lily Buffay||Frank Buffay||ex-husband
+Lily Buffay||Mike Hannigan||son-in-law
+Lily Buffay||Phoebe Abbott||ex-girlfriend
+Lilyan Chauvin||Female||gender
+Lilyan Chauvin||August 6, 1925||date_of_birth
+Anne Dudek||Female||gender
+Anne Dudek||March 22, 1975||date_of_birth
+Lisa Kudrow||Female||gender
+Lisa Kudrow||July 30, 1963||date_of_birth
+Lizzy||Female||gender
+Lizzy||unemployed||title
+Lori Alan||Female||gender
+Lori Alan||18 July 1966||date_of_birth
+Louis Mandylor||Male||gender
+Louis Mandylor||September 13, 1966||date_of_birth
+Louis Posen||Male||gender
+Lowell||Male||gender
+Lowell||Co-worker of Chandler||title
+Lowell||Mugger||title
+Luis Antonio Ramos||Male||gender
+Luisa||Female||gender
+Luisa||Animal Control employee||title
+Lydia||Female||gender
+Mackenzie||Female||gender
+Mackenzie||1996||date_of_birth
+Mae Whitman||Female||gender
+Mae Whitman||June 9, 1988||date_of_birth
+Maggie Wheeler||Female||gender
+Maggie Wheeler||08/07/61||date_of_birth
+Arlene Sanford||Female||gender
+Malcolm||Male||gender
+Malcolm||Ursula Buffay||ex-girlfriend
+Malcolm||Phoebe Buffay||ex-girlfriend
+Marc Coreger||Male||gender
+Marc Coreger||Jaime Coreger||newborn
+Marc Coreger||Julie Coreger||wife
+Marcel||Male||gender
+Marcel||-||date_of_birth
+Marcel||Pet||title
+Marcel||Ross Geller||former_owner
+Margha||Female||gender
+Margha||-||title
+Maria||Female||gender
+Maria||Gym employee||title
+Arthur||Male||gender
+Marie||Female||gender
+Marie||Chef||title
+Marie||Emilio||father
+Marie||Tony||brother
+Marie||Carlos||brother
+Marjorie||Female||gender
+Mark Robinson||Male||gender
+Mark Robinson||Bloomingdale's Executive||title
+Mark Robinson||Louis Vuitton Executive||title
+Mark Robinson||Mrs. Robinson||wife
+Mark Robinson||Rachel Green||ex-crush
+Mark Robinson||Nancy||fling
+Mark J. Kunerth||Male||gender
+Arye Gross||Male||gender
+Arye Gross||March 17, 1960||date_of_birth
+Mark Robinson's niece||Unknown||name
+Mark Robinson's niece||Female||gender
+Mark Robinson's niece||Mark Robinson||uncle
+Mark Robinson's niece||Mrs. Robinson||aunt
+Marlo Thomas||Female||gender
+Marlo Thomas||November 21, 1937||date_of_birth
+Marshall||Male||gender
+Marshall||Director||title
+Marta Kauffman||Female||gender
+Marta Kauffman||September 21, 1956||date_of_birth
+Mary||Female||gender
+Mary||Phoebe Buffay||niece
+Mary||Ursula Buffay||niece
+Mary||Mike Hannigan||nephew-in-law
+Mary-Therese Tribbiani||Mary-Theresa Tribbiani||name
+Mary-Therese Tribbiani||Female||gender
+Mary-Therese Tribbiani||Joey Tribbiani||brother
+Mary-Therese Tribbiani||Gloria Tribbiani||mother
+Mary-Therese Tribbiani||Joey Tribbiani Sr.||father
+Mary-Therese Tribbiani||Gina Tribbiani||sister
+Mary-Therese Tribbiani||Tina Tribbiani||sister
+Mary-Therese Tribbiani||Dina Tribbiani||sister
+Mary-Therese Tribbiani||Mary-Angela Tribbiani||sister
+Mary-Therese Tribbiani||Veronica Tribbiani||sister
+Mary-Therese Tribbiani||Cookie Tribbiani||sister
+Mary-Therese Tribbiani||Michael Tribbiani||nephew
+Mary-Therese Tribbiani||Walter||fiancé
+Mary-Ellen Jenkins||Mary-Ellen||name
+Mary-Ellen Jenkins||Female||gender
+Mary-Ellen Jenkins||Joey Tribbiani||ex-boyfriend
+Ashley Tribbiani||Female||gender
+Ashley Tribbiani||Joey Tribbiani||imaginary_father
+Ashley Tribbiani||Karen||imaginary_mother
+Ashley Tribbiani||Brittany Tribbiani||imaginary_sister
+Ashley Tribbiani||Joey Tribbiani Sr.||imaginary_grandfather
+Ashley Tribbiani||Gloria Tribbiani||imaginary_grandmother
+Ashley Tribbiani||Tribbiani Sisters||imaginary_aunts
+Mary Gallagher||Female||gender
+Mary Gallagher||December 11, 1967||date_of_birth
+Mary Kay Place||Female||gender
+Mary Kay Place||September 23, 1947||date_of_birth
+Mary Pat Gleason||Female||gender
+Mary Pat Gleason||February 23, 1950||date_of_birth
+Massimo De Ambrosis||Male||gender
+Massimo De Ambrosis||July 14, 1964||date_of_birth
+Matt Battaglia||Male||gender
+Matt Battaglia||September 25, 1965||date_of_birth
+Matt LeBlanc||Male||gender
+Matt LeBlanc||July 25, 1967||date_of_birth
+Matthew Perry||Male||gender
+Matthew Perry||August 19, 1969||date_of_birth
+Maureen||Female||gender
+Maureen||Jack Geller||uncle
+Maureen||Judy Geller||aunt
+Maureen||Ross Geller||cousin
+Maureen||Monica Geller||cousin
+Max||Male||gender
+Max||Researcher||title
+Megan Bailey||Female||gender
+Megan Bailey||-||title
+Megan Ward||Female||gender
+Megan Ward||September 24, 1969||date_of_birth
+Melanie||Female||gender
+Melanie||Employee in a Gift Basket Shop||title
+Melanie||Joey Tribbiani||ex-boyfriend
+Melissa George||Female||gender
+Melissa George||6 August, 1976||date_of_birth
+Melissa Warburton||Female||gender
+Melissa Warburton||Party planner||title
+Melissa Warburton||Rachel Green||lesbian_crush;_kissed
+Melissa Warburton||Alan||boyfriend
+Michael||Male||gender
+Aunt Cheryl||Female||gender
+Aunt Cheryl||Frannie||daughter
+Aunt Cheryl||Ross Geller||nephew
+Aunt Cheryl||Monica Geller||niece
+Aunt Cheryl||Ben Geller||great_nephew
+Aunt Cheryl||Emma Geller-Green||great_niece
+Aunt Cheryl||Jack Bing||great_nephew
+Aunt Cheryl||Erica Bing||great_niece
+Aunt Cheryl||Stuart||son-in-law
+Aunt Cheryl||Rachel Green||niece-in-law
+Aunt Cheryl||Chandler Bing||nephew-in-law
+Michael Borkow||Male||gender
+Michael Ensign||Male||gender
+Michael Ensign||February 13, 1944 (age 74)||date_of_birth
+Michael Ensign||Actor||title
+Michael Lembeck||Male||gender
+Michael Lembeck||06/25/48||date_of_birth
+Michael McKean||Male||gender
+Michael McKean||October 17, 1947||date_of_birth
+Michael Naughton||Male||gender
+Iris Geller||Female||gender
+Iris Geller||-||title
+Iris Geller||Jack Geller||sister
+Iris Geller||Aunt Liddy||sister
+Iris Geller||Ross Geller||nephew
+Iris Geller||Monica Geller||niece
+Iris Geller||Cassie Geller||niece
+Iris Geller||Ben Geller||great-nephew
+Iris Geller||Emma Geller-Green||great-niece
+Iris Geller||Erica Geller-Bing||great-niece
+Iris Geller||Jack Geller-Bing||great-nephew
+Iris Geller||Judy Geller||sister-in-law
+Iris Geller||Chandler Bing||nephew-in-law
+Iris Geller||Rachel Green-Geller||niece-in-law
+Michael Rapaport||Male||gender
+Michael Rapaport||March 20, 1970||date_of_birth
+Michael Tribbiani||Male||gender
+Michael Tribbiani||December 3 1983||date_of_birth
+Michael Tribbiani||Student||title
+Michael Tribbiani||Gina Tribbiani||mother
+Michael Tribbiani||Jimmy Costa||father
+Michael Tribbiani||Joey Tribbiani||maternal_uncle
+Michael Tribbiani||Dina Tribbiani||maternal_aunt
+Michael Tribbiani||Mary-Angela Tribbiani||maternal_aunt
+Michael Tribbiani||Mary-Therese Tribbiani||maternal_aunt
+Michael Tribbiani||Veronica Tribbiani||maternal_aunt
+Michael Tribbiani||Cookie Tribbiani||maternal_aunt
+Michael Tribbiani||Tina Tribbiani||maternal_aunt
+Michael Tribbiani||Veronica||half-aunt
+Michael Tribbiani||Nonnie||great-grandmother
+Michael Tribbiani||Nonna||great-grandmother
+Michael Vartan||Male||gender
+Michael Vartan||November 27, 1968||date_of_birth
+Michelle||Female||gender
+Michelle||-||date_of_birth
+Michelle||-||title
+Michelle Burke||Richard Burke||father
+Michelle Burke||Barbara Burke||mother
+Michelle Burke||Timothy Burke||brother
+Michelle Burke||Henry||son
+Miguel A. Núñez Jr.||Male||gender
+Miguel A. Núñez Jr.||August 11, 1964||date_of_birth
+Mike Hannigan||Michael "Mike" Hannigan||name
+Mike Hannigan||Crap Bag||nicknames
+Mike Hannigan||Honey||nicknames
+Mike Hannigan||Male||gender
+Mike Hannigan||c. 1967||date_of_birth
+Mike Hannigan||Lawyer||title
+Mike Hannigan||Pianist||title
+Mike Hannigan||Biological  Theodore Hannigan||father
+Mike Hannigan||Bitsy Hannigan||mother
+Mike Hannigan||Phoebe Buffay||wife
+Mike Hannigan||Mrs. Buffay||stepmother-in-law
+Mike Hannigan||Frank Buffay||father-in-law
+Mike Hannigan||Phoebe Abbott||biological_mother-in-law
+Mike Hannigan||Lily Buffay||adoptive_mother-in-law
+Mike Hannigan||†  Ursula Buffay||sister-in-law
+Mike Hannigan||Frank Buffay Jr.||half-brother-in-law
+Mike Hannigan||Alice Knight Buffay||half-sister-in-law
+Mike Hannigan||Frank Buffay Jr. Jr.||half-nephew
+Mike Hannigan||Chandler Buffay||half-niece
+Mike Hannigan||Leslie Buffay||half-niece
+Mike Hannigan||Frances||grandmother-in-law
+Mike Hannigan||Silvia||aunt-in-law
+Mike Hannigan||Mary||aunt-in-law
+Mike Hannigan's brother||Mr. Hannigan||name
+Mike Hannigan's brother||Male||gender
+Mike Hannigan's brother||Theodore Hannigan||father
+Mike Hannigan's brother||Bitsy Hannigan||mother
+Mike Hannigan's brother||Mike Hannigan||brother
+Mike Hannigan's brother||Phoebe Buffay||sister-in-law
+Mike Hannigan's ex-wife||Female||gender
+Mike Hannigan's ex-wife||Mike Hannigan||ex-husband
+Mike Hannigan's ex-wife||Theodore Hannigan||ex-father-in-law
+Mike Hannigan's ex-wife||Bitsy Hannigan||ex-mother-in-law
+Mike Hannigan's sister||Ms. Hannigan||name
+Mike Hannigan's sister||Female||gender
+Mike Hannigan's sister||Theodore Hannigan||father
+Mike Hannigan's sister||Bitsy Hannigan||mother
+Mike Hannigan's sister||Mike Hannigan||brother
+Mike Hannigan's sister||Phoebe Buffay||sister-in-law
+Aunt Lillian||Female||gender
+Aunt Lillian||Althea||mother
+Aunt Lillian||Judy Geller||sister
+Aunt Lillian||Phylis||sister
+Aunt Lillian||Jack Geller||brother-in-law
+Aunt Lillian||Ross Geller||nephew
+Aunt Lillian||Monica Geller||niece
+Aunt Lillian||Ben Geller||grandnephew
+Aunt Lillian||Emma Geller-Green||grandniece
+Aunt Lillian||Jack Bing||grandnephew
+Aunt Lillian||Erica Bing||grandniece
+Mike Sikowitz||Male||gender
+Mindy Hunter-Farber||Female||gender
+Mindy Hunter-Farber||Barry Farber||ex-husband
+Minnie||Minnie Mouse||nicknames
+Minnie||Female||gender
+Minnie||George Willick||son_or_son-in-law
+Minnie||Adelaide Willick||daughter_or_daughter-in-law
+Minnie||Carol Willick||granddaughter
+Minnie||Ben Geller||great-grandson
+Minnie||Susan Bunch||granddaughter-in-law
+Minnie||Ross Geller||ex-grandson-in-law
+Mischa||Male||gender
+Mischa||-||date_of_birth
+Mischa||Translator (formerly)||title
+Mischa||Translator||employer
+Mischa||Monica Geller||one_date
+Aunt Lisa||Lisa||name
+Aunt Lisa||Female||gender
+Aunt Lisa||Dan||husband
+Aunt Lisa||Ross Geller||nephew
+Aunt Lisa||Monica Geller||niece
+Aunt Lisa||Ben Geller||grandnephew
+Aunt Lisa||Emma Geller-Green||grandniece
+Aunt Lisa||Jack Geller-Bing||grandnephew
+Aunt Lisa||Erica Geller-Bing||grandniece
+Aunt Lisa||Rachel Green-Geller||niece-in-law
+Aunt Lisa||Judy Geller||possible_sister/sister-in-law
+Aunt Lisa||Jack Geller||possible_brother/brother-in-law
+Missi Pyle||Female||gender
+Missi Pyle||November 16, 1972||date_of_birth
+Missy Goldberg||Female||gender
+Mitchell Whitfield||Male||gender
+Mitchell Whitfield||08/09/1969||date_of_birth
+Molly||Female||gender
+Molly||Nanny||title
+Molly||Tabitha||girlfriend
+Molly Hagan||Female||gender
+Molly Hagan||August 3, 1961||date_of_birth
+Mona||Female||gender
+Mona||Employee||title
+Mona||Allesandro's||employer
+Mona||Ross Geller||ex-boyfriend
+Mona||Unnamed||boyfriend
+Unknown||Male||gender
+Unknown||Mona||girlfriend
+Aunt Millie||Female||gender
+Aunt Millie||Ross Geller||nephew
+Aunt Millie||Monica Geller||niece
+Aunt Millie||Ben Geller||great_nephew
+Aunt Millie||Emma Geller-Green||great-niece
+Aunt Millie||Jack Bing||adoptive_great-nephew
+Aunt Millie||Erica Bing||adoptive_great-niece
