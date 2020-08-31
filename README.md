@@ -17,7 +17,7 @@ This repository maintains **DialogRE**, the first human-annotated dialogue-based
 Files in this repository:
 
 * ```license.txt```: the license of DialogRE.
-* ```data/{train,dev,test}.json```: the dataset files. The data format is as follows.
+* ```data/{train,dev,test}.json```: the original dataset files (used in the paper). The data format is as follows.
 ```
 [
   [
@@ -128,12 +128,14 @@ Files in this repository:
 ]
 ```
 
+* ```data_v2/en/data/{train,dev,test}.json```: the updated dataset files with a few annotation errors fixed. The format is the same as the orignal. (**Updated on Aug 2020**)
+* ```data_v2/cn/data/{train,dev,test}.json```: a Chinese version of DialogRE. The format is the same as the orignal. Please note that since ground truth argument types do not substantially contribute to the performance according to Section 5.2 of our paper, we no longer annotate argument types when annotating the Chinese version. Instead, all ```"x_type"```s and ```"y_type"```s are left empty. (**Updated on Aug 2020**)
 * ```kb/Fandom_triples```: relational triples from [Fandom](https://friends.fandom.com/wiki/Friends_Wiki).
 * ```kb/matching_table.txt```: mapping from Fandom relational types to DialogRE relation types.
 * ```bert``` folder: a re-implementation of BERT and BERT<sub>S</sub> baselines.
   1. Download and unzip BERT from [here](https://github.com/google-research/bert), and set up the environment variable for BERT by 
   ```export BERT_BASE_DIR=/PATH/TO/BERT/DIR```. 
-  2. Copy the dataset folder ```data``` to ```bert/```.
+  2. Copy the dataset folder ```data``` (or ```data_v2/{en,cn}/data``` for the updated version) to ```bert/```.
   3. In ```bert```, execute ```python convert_tf_checkpoint_to_pytorch.py --tf_checkpoint_path=$BERT_BASE_DIR/bert_model.ckpt --bert_config_file=$BERT_BASE_DIR/bert_config.json --pytorch_dump_path=$BERT_BASE_DIR/pytorch_model.bin```.
   4. To run and evaluate the BERT baseline, execute the following commands in ```bert```:
   ```
@@ -153,5 +155,6 @@ Files in this repository:
 **TODO**:
 
 - [x] Release DialogRE
-- [ ] Release a Chinese version of DialogRE (summer 2020)
-- [ ] Fix the annotation errors in DialogRE and release an updated English version (summer 2020) 
+- [x] Release a Chinese version of DialogRE (summer 2020)
+- [x] Fix the annotation errors in DialogRE and release an updated English version (summer 2020) 
+- [ ] Baseline results for the updated version (coming soon)
