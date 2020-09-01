@@ -157,4 +157,4 @@ Files in this repository:
 - [x] Release DialogRE
 - [x] Release a Chinese version of DialogRE (summer 2020)
 - [x] Fix the annotation errors in DialogRE and release an updated English version (summer 2020) 
-- [ ] Baseline results for the updated version (coming soon)
+- [x] Baseline results for the updated version ([here](https://dataset.org/dialogre/))
