@@ -1,7 +1,7 @@
 DialogRE
 =====
 
-This repository maintains **DialogRE**, the first human-annotated dialogue-based relation extraction dataset.
+This repository maintains **DialogRE**, the first human-annotated dialogue-based relation extraction dataset. Please contact dialogre@dataset.org if you have any questions or suggestions.
 
 * Paper: https://arxiv.org/abs/2004.08056
 ```
